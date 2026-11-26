@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "b0001",
+    "es": "el trabajo",
+    "zh": "工作；劳动",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "工作",
+    "ex_es": "Mi padre va al trabajo en tren cada mañana.",
+    "ex_zh": "我父亲每天早上坐火车去上班。"
+  },
+  {
+    "id": "b0002",
+    "es": "trabajar",
+    "zh": "工作；干活",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "工作",
+    "ex_es": "Trabajo en una tienda pequeña del barrio.",
+    "ex_zh": "我在街区里一家小商店工作。"
+  },
+  {
+    "id": "b0003",
+    "es": "el dinero",
+    "zh": "钱；金钱",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "工作",
+    "ex_es": "Necesito dinero para comprar la comida de hoy.",
+    "ex_zh": "我需要钱来买今天的食物。"
+  },
+  {
+    "id": "b0004",
+    "es": "la tienda",
+    "zh": "商店；店铺",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "工作",
+    "ex_es": "La tienda abre a las nueve de la mañana.",
+    "ex_zh": "这家商店早上九点开门。"
+  },
+  {
+    "id": "b0005",
+    "es": "el mercado",
+    "zh": "市场；集市",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "工作",
+    "ex_es": "Compro fruta fresca en el mercado del barrio.",
+    "ex_zh": "我在街区的市场买新鲜水果。"
+  },
+  {
+    "id": "b0006",
+    "es": "el médico",
+    "zh": "医生",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "工作",
+    "ex_es": "El médico trabaja en el hospital del centro.",
+    "ex_zh": "这位医生在市中心医院工作。"
+  },
+  {
+    "id": "b0007",
+    "es": "la escuela",
+    "zh": "学校",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "学习",
+    "ex_es": "Los niños llegan a la escuela a las ocho.",
+    "ex_zh": "孩子们八点到学校。"
+  },
+  {
+    "id": "b0008",
+    "es": "el libro",
+    "zh": "书；书籍",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "学习",
+    "ex_es": "Leo un libro interesante antes de dormir.",
+    "ex_zh": "我睡前读一本有趣的书。"
+  },
+  {
+    "id": "b0009",
+    "es": "estudiar",
+    "zh": "学习；攻读",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "学习",
+    "ex_es": "Estudio español dos horas cada tarde.",
+    "ex_zh": "我每天下午学两小时西班牙语。"
+  },
+  {
+    "id": "b0010",
+    "es": "aprender",
+    "zh": "学习；学会",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "学习",
+    "ex_es": "Quiero aprender a hablar español muy bien.",
+    "ex_zh": "我想学会把西班牙语说得很好。"
+  },
+  {
+    "id": "b0011",
+    "es": "el lápiz",
+    "zh": "铅笔",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "学习",
+    "ex_es": "Escribo mi nombre con un lápiz azul.",
+    "ex_zh": "我用一支蓝色铅笔写下我的名字。"
+  },
+  {
+    "id": "b0012",
+    "es": "la pregunta",
+    "zh": "问题；提问",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "学习",
+    "ex_es": "El alumno hace una pregunta al profesor.",
+    "ex_zh": "这个学生向老师提了一个问题。"
+  },
+  {
+    "id": "b0013",
+    "es": "la palabra",
+    "zh": "单词；词",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "学习",
+    "ex_es": "No entiendo esta palabra en el texto.",
+    "ex_zh": "我不懂课文里的这个词。"
+  },
+  {
+    "id": "b0014",
+    "es": "el amor",
+    "zh": "爱；爱情",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "情感",
+    "ex_es": "El amor de una madre es muy fuerte.",
+    "ex_zh": "母亲的爱非常强大。"
+  },
+  {
+    "id": "b0015",
+    "es": "amar",
+    "zh": "爱；喜爱",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "情感",
+    "ex_es": "Amar a alguien cambia la vida por completo.",
+    "ex_zh": "爱一个人会彻底改变生活。"
+  },
+  {
+    "id": "b0016",
+    "es": "feliz",
+    "zh": "幸福的；快乐的",
+    "pos": "adj.",
+    "level": "A1",
+    "theme": "情感",
+    "ex_es": "Estoy muy feliz cuando veo a mis amigos.",
+    "ex_zh": "我看到朋友们时非常开心。"
+  },
+  {
+    "id": "b0017",
+    "es": "triste",
+    "zh": "悲伤的；难过的",
+    "pos": "adj.",
+    "level": "A1",
+    "theme": "情感",
+    "ex_es": "Ella está triste porque su gato se perdió.",
+    "ex_zh": "她很难过，因为她的猫走丢了。"
+  },
+  {
+    "id": "b0018",
+    "es": "el miedo",
+    "zh": "恐惧；害怕",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "情感",
+    "ex_es": "Tengo miedo de hablar delante de la gente.",
+    "ex_zh": "我害怕在众人面前讲话。"
+  },
+  {
+    "id": "b0019",
+    "es": "el amigo",
+    "zh": "朋友",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "情感",
+    "ex_es": "Mi amigo me llama por teléfono cada noche.",
+    "ex_zh": "我的朋友每天晚上给我打电话。"
+  },
+  {
+    "id": "b0020",
+    "es": "la amistad",
+    "zh": "友谊；友情",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "情感",
+    "ex_es": "La amistad entre ellos dura muchos años.",
+    "ex_zh": "他们之间的友谊持续了很多年。"
+  },
+  {
+    "id": "b0021",
+    "es": "el agua",
+    "zh": "水",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "自然",
+    "ex_es": "Bebo un vaso de agua después de correr.",
+    "ex_zh": "我跑步后喝一杯水。"
+  },
+  {
+    "id": "b0022",
+    "es": "el sol",
+    "zh": "太阳；阳光",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "自然",
+    "ex_es": "El sol brilla mucho en verano aquí.",
+    "ex_zh": "这里夏天阳光很强烈。"
+  },
+  {
+    "id": "b0023",
+    "es": "la luna",
+    "zh": "月亮",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "自然",
+    "ex_es": "La luna está muy clara esta noche.",
+    "ex_zh": "今晚月亮很明亮。"
+  },
+  {
+    "id": "b0024",
+    "es": "el árbol",
+    "zh": "树",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "自然",
+    "ex_es": "Hay un árbol grande delante de mi casa.",
+    "ex_zh": "我家门前有一棵大树。"
+  },
+  {
+    "id": "b0025",
+    "es": "la flor",
+    "zh": "花",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "自然",
+    "ex_es": "Mi madre pone flores en la mesa del salón.",
+    "ex_zh": "我妈妈把花放在客厅的桌子上。"
+  },
+  {
+    "id": "b0026",
+    "es": "el mar",
+    "zh": "海；大海",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "自然",
+    "ex_es": "En agosto vamos a la playa y al mar.",
+    "ex_zh": "八月我们去海滩和大海。"
+  },
+  {
+    "id": "b0027",
+    "es": "la montaña",
+    "zh": "山；山脉",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "自然",
+    "ex_es": "La montaña está cubierta de nieve blanca.",
+    "ex_zh": "山上覆盖着白雪。"
+  },
+  {
+    "id": "b0028",
+    "es": "el río",
+    "zh": "河；河流",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "自然",
+    "ex_es": "Los niños nadan en el río en verano.",
+    "ex_zh": "孩子们夏天在河里游泳。"
+  },
+  {
+    "id": "b0029",
+    "es": "el cielo",
+    "zh": "天空",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "自然",
+    "ex_es": "El cielo está azul y sin nubes hoy.",
+    "ex_zh": "今天天空湛蓝，没有云。"
+  },
+  {
+    "id": "b0030",
+    "es": "la lluvia",
+    "zh": "雨",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "自然",
+    "ex_es": "Me gusta la lluvia cuando estoy en casa.",
+    "ex_zh": "我在家的时候喜欢下雨。"
+  },
+  {
+    "id": "b0031",
+    "es": "el perro",
+    "zh": "狗",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "自然",
+    "ex_es": "Mi perro duerme en la cocina por la noche.",
+    "ex_zh": "我的狗晚上睡在厨房里。"
+  },
+  {
+    "id": "b0032",
+    "es": "la casa",
+    "zh": "房子；家",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "社会",
+    "ex_es": "Nuestra casa tiene un jardín pequeño y bonito.",
+    "ex_zh": "我们的房子有一个漂亮的小花园。"
+  },
+  {
+    "id": "b0033",
+    "es": "la ciudad",
+    "zh": "城市",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "社会",
+    "ex_es": "Madrid es una ciudad muy grande y ruidosa.",
+    "ex_zh": "马德里是一座很大而喧闹的城市。"
+  },
+  {
+    "id": "b0034",
+    "es": "la familia",
+    "zh": "家庭；家人",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "社会",
+    "ex_es": "Mi familia come junta los domingos al mediodía.",
+    "ex_zh": "我们一家人星期天中午一起吃饭。"
+  },
+  {
+    "id": "b0035",
+    "es": "el niño",
+    "zh": "男孩；孩子",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "社会",
+    "ex_es": "El niño juega con la pelota en el parque.",
+    "ex_zh": "那个男孩在公园里玩球。"
+  },
+  {
+    "id": "b0036",
+    "es": "la gente",
+    "zh": "人们；人",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "社会",
+    "ex_es": "La gente espera el autobús bajo la lluvia.",
+    "ex_zh": "人们在雨中等待公共汽车。"
+  },
+  {
+    "id": "b0037",
+    "es": "el tren",
+    "zh": "火车",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "社会",
+    "ex_es": "El tren sale de la estación a las siete.",
+    "ex_zh": "火车七点从车站出发。"
+  },
+  {
+    "id": "b0038",
+    "es": "el coche",
+    "zh": "汽车",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "社会",
+    "ex_es": "Mi vecino lava el coche todos los sábados.",
+    "ex_zh": "我邻居每周六洗车。"
+  },
+  {
+    "id": "b0039",
+    "es": "la comida",
+    "zh": "食物；饭菜",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "社会",
+    "ex_es": "La comida de mi abuela es siempre deliciosa.",
+    "ex_zh": "我奶奶做的饭菜总是很美味。"
+  },
+  {
+    "id": "b0040",
+    "es": "el teléfono",
+    "zh": "电话",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "科技",
+    "ex_es": "Mi teléfono está en la mesa de la cocina.",
+    "ex_zh": "我的电话在厨房的桌子上。"
+  },
+  {
+    "id": "b0041",
+    "es": "el ordenador",
+    "zh": "电脑",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "科技",
+    "ex_es": "Uso el ordenador para escribir mis tareas.",
+    "ex_zh": "我用电脑写作业。"
+  },
+  {
+    "id": "b0042",
+    "es": "la televisión",
+    "zh": "电视；电视节目",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "科技",
+    "ex_es": "Vemos la televisión juntos después de cenar.",
+    "ex_zh": "我们晚饭后一起看电视。"
+  },
+  {
+    "id": "b0043",
+    "es": "la música",
+    "zh": "音乐",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "艺术",
+    "ex_es": "Escucho música mientras limpio la casa.",
+    "ex_zh": "我打扫房子时听音乐。"
+  },
+  {
+    "id": "b0044",
+    "es": "el cine",
+    "zh": "电影院；电影",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "艺术",
+    "ex_es": "El sábado vamos al cine con mis primos.",
+    "ex_zh": "星期六我们和表兄弟去看电影。"
+  },
+  {
+    "id": "b0045",
+    "es": "la canción",
+    "zh": "歌曲",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "艺术",
+    "ex_es": "Esta canción me recuerda a mi infancia.",
+    "ex_zh": "这首歌让我想起童年。"
+  },
+  {
+    "id": "b0046",
+    "es": "bailar",
+    "zh": "跳舞",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "艺术",
+    "ex_es": "Mi hermana baila muy bien en las fiestas.",
+    "ex_zh": "我姐姐在聚会上跳舞跳得很好。"
+  },
+  {
+    "id": "b0047",
+    "es": "cantar",
+    "zh": "唱歌",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "艺术",
+    "ex_es": "Los niños cantan una canción en la clase.",
+    "ex_zh": "孩子们在课堂上唱一首歌。"
+  },
+  {
+    "id": "b0048",
+    "es": "la vida",
+    "zh": "生活；生命",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "抽象",
+    "ex_es": "La vida en el pueblo es tranquila y lenta.",
+    "ex_zh": "村子里的生活安静而缓慢。"
+  },
+  {
+    "id": "b0049",
+    "es": "el tiempo",
+    "zh": "时间；天气",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "抽象",
+    "ex_es": "No tengo tiempo para ver la televisión.",
+    "ex_zh": "我没有时间看电视。"
+  },
+  {
+    "id": "b0050",
+    "es": "importante",
+    "zh": "重要的",
+    "pos": "adj.",
+    "level": "A1",
+    "theme": "抽象",
+    "ex_es": "Es importante beber agua todos los días.",
+    "ex_zh": "每天喝水很重要。"
+  },
+  {
+    "id": "b0051",
+    "es": "difícil",
+    "zh": "困难的",
+    "pos": "adj.",
+    "level": "A1",
+    "theme": "抽象",
+    "ex_es": "Este ejercicio de matemáticas es muy difícil.",
+    "ex_zh": "这道数学题很难。"
+  },
+  {
+    "id": "b0052",
+    "es": "fácil",
+    "zh": "容易的",
+    "pos": "adj.",
+    "level": "A1",
+    "theme": "抽象",
+    "ex_es": "El examen de hoy fue bastante fácil.",
+    "ex_zh": "今天的考试相当容易。"
+  },
+  {
+    "id": "b0053",
+    "es": "bueno",
+    "zh": "好的；善良的",
+    "pos": "adj.",
+    "level": "A1",
+    "theme": "抽象",
+    "ex_es": "Mi profesor es bueno y explica muy claro.",
+    "ex_zh": "我的老师人很好，讲得也很清楚。"
+  },
+  {
+    "id": "b0054",
+    "es": "grande",
+    "zh": "大的",
+    "pos": "adj.",
+    "level": "A1",
+    "theme": "抽象",
+    "ex_es": "Viven en una casa grande cerca del parque.",
+    "ex_zh": "他们住在公园附近的一栋大房子里。"
+  },
+  {
+    "id": "b0055",
+    "es": "pequeño",
+    "zh": "小的",
+    "pos": "adj.",
+    "level": "A1",
+    "theme": "抽象",
+    "ex_es": "Mi cuarto es pequeño pero muy cómodo.",
+    "ex_zh": "我的房间很小，但非常舒服。"
+  },
+  {
+    "id": "b0056",
+    "es": "la paz",
+    "zh": "和平；安宁",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "抽象",
+    "ex_es": "En el campo hay mucha paz y silencio.",
+    "ex_zh": "乡下非常安宁、寂静。"
+  },
+  {
+    "id": "b0057",
+    "es": "la verdad",
+    "zh": "真相；真话",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "抽象",
+    "ex_es": "Siempre digo la verdad a mis padres.",
+    "ex_zh": "我总是对父母说真话。"
+  },
+  {
+    "id": "b0058",
+    "es": "la libertad",
+    "zh": "自由",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "抽象",
+    "ex_es": "La libertad es un derecho de todas las personas.",
+    "ex_zh": "自由是所有人的一项权利。"
+  },
+  {
+    "id": "b0059",
+    "es": "el arte",
+    "zh": "艺术",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "艺术",
+    "ex_es": "El arte moderno me parece difícil de entender.",
+    "ex_zh": "我觉得现代艺术很难理解。"
+  },
+  {
+    "id": "b0060",
+    "es": "siempre",
+    "zh": "总是；一直",
+    "pos": "adv.",
+    "level": "A1",
+    "theme": "抽象",
+    "ex_es": "Siempre desayuno pan con tomate y café.",
+    "ex_zh": "我总是吃番茄面包喝咖啡当早餐。"
+  },
+  {
+    "id": "b0061",
+    "es": "la oficina",
+    "zh": "办公室",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "工作",
+    "ex_es": "Mi oficina está en el quinto piso del edificio.",
+    "ex_zh": "我的办公室在大楼的五层。"
+  },
+  {
+    "id": "b0062",
+    "es": "el jefe",
+    "zh": "老板；上司",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "工作",
+    "ex_es": "Mi jefe me pidió el informe para el lunes.",
+    "ex_zh": "我老板要我在星期一之前交报告。"
+  },
+  {
+    "id": "b0063",
+    "es": "el sueldo",
+    "zh": "工资；薪水",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "工作",
+    "ex_es": "Con este sueldo no puedo pagar el alquiler.",
+    "ex_zh": "靠这份工资我付不起房租。"
+  },
+  {
+    "id": "b0064",
+    "es": "el cliente",
+    "zh": "客户；顾客",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "工作",
+    "ex_es": "El cliente quiere cambiar la fecha de la entrega.",
+    "ex_zh": "客户想更改交货日期。"
+  },
+  {
+    "id": "b0065",
+    "es": "la reunión",
+    "zh": "会议",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "工作",
+    "ex_es": "La reunión empieza a las diez en punto.",
+    "ex_zh": "会议十点整开始。"
+  },
+  {
+    "id": "b0066",
+    "es": "la empresa",
+    "zh": "公司；企业",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "工作",
+    "ex_es": "Trabajo en una empresa de transporte internacional.",
+    "ex_zh": "我在一家国际运输公司工作。"
+  },
+  {
+    "id": "b0067",
+    "es": "el horario",
+    "zh": "时间表；作息时间",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "工作",
+    "ex_es": "El horario de la tienda cambia en verano.",
+    "ex_zh": "这家商店的营业时间夏天会变。"
+  },
+  {
+    "id": "b0068",
+    "es": "el proyecto",
+    "zh": "项目；计划",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "工作",
+    "ex_es": "Nuestro equipo termina el proyecto esta semana.",
+    "ex_zh": "我们团队这周完成这个项目。"
+  },
+  {
+    "id": "b0069",
+    "es": "el empleo",
+    "zh": "工作；就业",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "工作",
+    "ex_es": "Buscar empleo en otra ciudad es complicado.",
+    "ex_zh": "在另一座城市找工作很麻烦。"
+  },
+  {
+    "id": "b0070",
+    "es": "el negocio",
+    "zh": "生意；买卖",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "工作",
+    "ex_es": "Su negocio de ropa funciona muy bien ahora.",
+    "ex_zh": "他的服装生意现在经营得很好。"
+  },
+  {
+    "id": "b0071",
+    "es": "ganar",
+    "zh": "赚；赢",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "工作",
+    "ex_es": "Mi hermano gana poco pero trabaja contento.",
+    "ex_zh": "我哥哥挣得不多，但工作得很开心。"
+  },
+  {
+    "id": "b0072",
+    "es": "la tarea",
+    "zh": "任务；作业",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "工作",
+    "ex_es": "Hago las tareas de la oficina por la mañana.",
+    "ex_zh": "我上午处理办公室的事务。"
+  },
+  {
+    "id": "b0073",
+    "es": "el examen",
+    "zh": "考试",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "学习",
+    "ex_es": "Tengo un examen de historia el jueves.",
+    "ex_zh": "我星期四有一场历史考试。"
+  },
+  {
+    "id": "b0074",
+    "es": "la nota",
+    "zh": "分数；成绩",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "学习",
+    "ex_es": "Saqué una nota muy buena en el examen.",
+    "ex_zh": "我考试拿了一个很好的分数。"
+  },
+  {
+    "id": "b0075",
+    "es": "la universidad",
+    "zh": "大学",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "学习",
+    "ex_es": "Mi hermana estudia medicina en la universidad.",
+    "ex_zh": "我姐姐在大学学医。"
+  },
+  {
+    "id": "b0076",
+    "es": "el curso",
+    "zh": "课程；学年",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "学习",
+    "ex_es": "Este curso de inglés dura seis meses.",
+    "ex_zh": "这门英语课持续六个月。"
+  },
+  {
+    "id": "b0077",
+    "es": "el idioma",
+    "zh": "语言",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "学习",
+    "ex_es": "El español es un idioma muy bonito.",
+    "ex_zh": "西班牙语是一门很美的语言。"
+  },
+  {
+    "id": "b0078",
+    "es": "explicar",
+    "zh": "解释；讲解",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "学习",
+    "ex_es": "El profesor explica la lección con ejemplos claros.",
+    "ex_zh": "老师用清晰的例子讲解这一课。"
+  },
+  {
+    "id": "b0079",
+    "es": "la respuesta",
+    "zh": "回答；答案",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "学习",
+    "ex_es": "No sé la respuesta a esta pregunta.",
+    "ex_zh": "我不知道这个问题的答案。"
+  },
+  {
+    "id": "b0080",
+    "es": "la biblioteca",
+    "zh": "图书馆",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "学习",
+    "ex_es": "Estudio en la biblioteca porque hay silencio.",
+    "ex_zh": "我在图书馆学习，因为那里很安静。"
+  },
+  {
+    "id": "b0081",
+    "es": "el ejercicio",
+    "zh": "练习；习题",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "学习",
+    "ex_es": "Hacemos un ejercicio de gramática cada día.",
+    "ex_zh": "我们每天做一个语法练习。"
+  },
+  {
+    "id": "b0082",
+    "es": "el diccionario",
+    "zh": "词典",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "学习",
+    "ex_es": "Busco las palabras nuevas en el diccionario.",
+    "ex_zh": "我在词典里查新单词。"
+  },
+  {
+    "id": "b0083",
+    "es": "la clase",
+    "zh": "课；班级",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "学习",
+    "ex_es": "La clase de matemáticas empieza a las nueve.",
+    "ex_zh": "数学课九点开始。"
+  },
+  {
+    "id": "b0084",
+    "es": "el alumno",
+    "zh": "学生",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "学习",
+    "ex_es": "Cada alumno tiene un libro y un cuaderno.",
+    "ex_zh": "每个学生都有一本书和一个本子。"
+  },
+  {
+    "id": "b0085",
+    "es": "contento",
+    "zh": "高兴的；满意的",
+    "pos": "adj.",
+    "level": "A2",
+    "theme": "情感",
+    "ex_es": "Estoy contento porque mañana empiezan las vacaciones.",
+    "ex_zh": "我很高兴，因为明天开始放假。"
+  },
+  {
+    "id": "b0086",
+    "es": "enfadado",
+    "zh": "生气的",
+    "pos": "adj.",
+    "level": "A2",
+    "theme": "情感",
+    "ex_es": "Mi hermano está enfadado conmigo por llegar tarde.",
+    "ex_zh": "我弟弟因为我来晚了在生我的气。"
+  },
+  {
+    "id": "b0087",
+    "es": "nervioso",
+    "zh": "紧张的；不安的",
+    "pos": "adj.",
+    "level": "A2",
+    "theme": "情感",
+    "ex_es": "Me pongo nervioso antes de hablar en público.",
+    "ex_zh": "我在公开讲话之前会变得紧张。"
+  },
+  {
+    "id": "b0088",
+    "es": "preocupado",
+    "zh": "担心的；忧虑的",
+    "pos": "adj.",
+    "level": "A2",
+    "theme": "情感",
+    "ex_es": "Estoy preocupado por la salud de mi abuelo.",
+    "ex_zh": "我担心我爷爷的健康。"
+  },
+  {
+    "id": "b0089",
+    "es": "la alegría",
+    "zh": "快乐；喜悦",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "情感",
+    "ex_es": "La alegría de los niños llena toda la casa.",
+    "ex_zh": "孩子们的欢乐充满了整栋房子。"
+  },
+  {
+    "id": "b0090",
+    "es": "el sentimiento",
+    "zh": "感情；情感",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "情感",
+    "ex_es": "No sé cómo explicar este sentimiento tan raro.",
+    "ex_zh": "我不知道该怎么解释这种奇怪的感觉。"
+  },
+  {
+    "id": "b0091",
+    "es": "enamorarse",
+    "zh": "恋爱；爱上",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "情感",
+    "ex_es": "Se enamoró de ella en el primer viaje.",
+    "ex_zh": "第一次旅行时他就爱上了她。"
+  },
+  {
+    "id": "b0092",
+    "es": "el enfado",
+    "zh": "生气；愤怒",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "情感",
+    "ex_es": "Su enfado desapareció después de hablar conmigo.",
+    "ex_zh": "和我谈过之后，他的怒气就消失了。"
+  },
+  {
+    "id": "b0093",
+    "es": "la esperanza",
+    "zh": "希望",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "情感",
+    "ex_es": "Todavía tengo esperanza de encontrar trabajo.",
+    "ex_zh": "我仍然抱有找到工作的希望。"
+  },
+  {
+    "id": "b0094",
+    "es": "la sorpresa",
+    "zh": "惊喜；惊讶",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "情感",
+    "ex_es": "La fiesta fue una sorpresa para mi padre.",
+    "ex_zh": "这场聚会对我父亲来说是个惊喜。"
+  },
+  {
+    "id": "b0095",
+    "es": "el cariño",
+    "zh": "关爱；爱意",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "情感",
+    "ex_es": "Mi abuela me trata con mucho cariño.",
+    "ex_zh": "我奶奶对我非常疼爱。"
+  },
+  {
+    "id": "b0096",
+    "es": "la emoción",
+    "zh": "激动；情绪",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "情感",
+    "ex_es": "Sentí mucha emoción al ver el mar.",
+    "ex_zh": "看到大海时我十分激动。"
+  },
+  {
+    "id": "b0097",
+    "es": "reír",
+    "zh": "笑",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "情感",
+    "ex_es": "A los niños les gusta reír con los chistes.",
+    "ex_zh": "孩子们喜欢听笑话笑个不停。"
+  },
+  {
+    "id": "b0098",
+    "es": "llorar",
+    "zh": "哭",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "情感",
+    "ex_es": "Mi hermana llora cuando ve películas tristes.",
+    "ex_zh": "我妹妹看悲伤的电影时会哭。"
+  },
+  {
+    "id": "b0099",
+    "es": "el bosque",
+    "zh": "森林",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "自然",
+    "ex_es": "Caminamos por el bosque durante dos horas.",
+    "ex_zh": "我们在森林里走了两个小时。"
+  },
+  {
+    "id": "b0100",
+    "es": "el campo",
+    "zh": "田野；乡下",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "自然",
+    "ex_es": "Mis abuelos viven en el campo todo el año.",
+    "ex_zh": "我祖父母一年到头都住在乡下。"
+  },
+  {
+    "id": "b0101",
+    "es": "el animal",
+    "zh": "动物",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "自然",
+    "ex_es": "El zoo tiene animales de muchos países.",
+    "ex_zh": "动物园里有来自许多国家的动物。"
+  },
+  {
+    "id": "b0102",
+    "es": "el pájaro",
+    "zh": "鸟",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "自然",
+    "ex_es": "Un pájaro canta en la ventana cada mañana.",
+    "ex_zh": "每天早上都有一只鸟在窗前歌唱。"
+  },
+  {
+    "id": "b0103",
+    "es": "la nube",
+    "zh": "云",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "自然",
+    "ex_es": "Hoy hay muchas nubes y poco sol.",
+    "ex_zh": "今天云很多，阳光很少。"
+  },
+  {
+    "id": "b0104",
+    "es": "el viento",
+    "zh": "风",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "自然",
+    "ex_es": "El viento mueve las hojas de los árboles.",
+    "ex_zh": "风吹动树叶。"
+  },
+  {
+    "id": "b0105",
+    "es": "la nieve",
+    "zh": "雪",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "自然",
+    "ex_es": "En enero la nieve cubre toda la montaña.",
+    "ex_zh": "一月里白雪覆盖整座山。"
+  },
+  {
+    "id": "b0106",
+    "es": "el fuego",
+    "zh": "火",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "自然",
+    "ex_es": "El fuego del hogar calienta el salón.",
+    "ex_zh": "壁炉里的火让客厅暖和起来。"
+  },
+  {
+    "id": "b0107",
+    "es": "la tierra",
+    "zh": "土地；地球",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "自然",
+    "ex_es": "La tierra de este jardín es muy seca.",
+    "ex_zh": "这个花园的土很干。"
+  },
+  {
+    "id": "b0108",
+    "es": "el planeta",
+    "zh": "行星；星球",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "自然",
+    "ex_es": "Cuidar el planeta es tarea de todos.",
+    "ex_zh": "保护地球是每个人的责任。"
+  },
+  {
+    "id": "b0109",
+    "es": "la isla",
+    "zh": "岛",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "自然",
+    "ex_es": "Pasamos las vacaciones en una isla pequeña.",
+    "ex_zh": "我们在一座小岛上度假。"
+  },
+  {
+    "id": "b0110",
+    "es": "el lago",
+    "zh": "湖",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "自然",
+    "ex_es": "El lago está tranquilo y el agua está fría.",
+    "ex_zh": "湖面平静，水很凉。"
+  },
+  {
+    "id": "b0111",
+    "es": "la playa",
+    "zh": "海滩",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "自然",
+    "ex_es": "En verano la playa está llena de gente.",
+    "ex_zh": "夏天海滩上挤满了人。"
+  },
+  {
+    "id": "b0112",
+    "es": "la naturaleza",
+    "zh": "自然；大自然",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "自然",
+    "ex_es": "La naturaleza necesita nuestro respeto y cuidado.",
+    "ex_zh": "大自然需要我们的尊重和呵护。"
+  },
+  {
+    "id": "b0113",
+    "es": "el pueblo",
+    "zh": "村庄；小镇",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "Mi pueblo tiene solo dos calles y una plaza.",
+    "ex_zh": "我们村只有两条街和一个广场。"
+  },
+  {
+    "id": "b0114",
+    "es": "el barrio",
+    "zh": "街区；社区",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "En mi barrio hay un mercado y dos escuelas.",
+    "ex_zh": "我们街区有一个市场和两所学校。"
+  },
+  {
+    "id": "b0115",
+    "es": "la calle",
+    "zh": "街道；马路",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "Los niños juegan en la calle hasta la noche.",
+    "ex_zh": "孩子们在街上玩到晚上。"
+  },
+  {
+    "id": "b0116",
+    "es": "la fiesta",
+    "zh": "聚会；节日",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "La fiesta del pueblo dura tres días.",
+    "ex_zh": "村里的节庆持续三天。"
+  },
+  {
+    "id": "b0117",
+    "es": "la salud",
+    "zh": "健康",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "Dormir bien es bueno para la salud.",
+    "ex_zh": "睡好觉对健康有益。"
+  },
+  {
+    "id": "b0118",
+    "es": "el hospital",
+    "zh": "医院",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "El hospital nuevo está cerca de la estación.",
+    "ex_zh": "新医院在车站附近。"
+  },
+  {
+    "id": "b0119",
+    "es": "la policía",
+    "zh": "警察；警察局",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "La policía ayuda a la gente en la calle.",
+    "ex_zh": "警察在街上帮助人们。"
+  },
+  {
+    "id": "b0120",
+    "es": "el autobús",
+    "zh": "公共汽车",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "El autobús pasa por aquí cada quince minutos.",
+    "ex_zh": "公共汽车每十五分钟经过这里。"
+  },
+  {
+    "id": "b0121",
+    "es": "el aeropuerto",
+    "zh": "机场",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "Llegamos al aeropuerto dos horas antes del vuelo.",
+    "ex_zh": "我们在航班起飞前两小时到达机场。"
+  },
+  {
+    "id": "b0122",
+    "es": "el vecino",
+    "zh": "邻居",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "Mi vecino riega las plantas cuando viajamos.",
+    "ex_zh": "我们出门旅行时，邻居帮忙浇花。"
+  },
+  {
+    "id": "b0123",
+    "es": "la educación",
+    "zh": "教育",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "La educación es importante para los niños.",
+    "ex_zh": "教育对孩子们很重要。"
+  },
+  {
+    "id": "b0124",
+    "es": "la seguridad",
+    "zh": "安全；安全性",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "La seguridad del barrio ha mejorado este año.",
+    "ex_zh": "今年街区的治安有所改善。"
+  },
+  {
+    "id": "b0125",
+    "es": "el deporte",
+    "zh": "运动；体育",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "El deporte favorito de mi hijo es el fútbol.",
+    "ex_zh": "我儿子最喜欢的运动是足球。"
+  },
+  {
+    "id": "b0126",
+    "es": "el cumpleaños",
+    "zh": "生日",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "Celebramos el cumpleaños de Ana en casa.",
+    "ex_zh": "我们在家里给安娜过生日。"
+  },
+  {
+    "id": "b0127",
+    "es": "el móvil",
+    "zh": "手机",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "科技",
+    "ex_es": "Mi móvil no tiene batería desde ayer.",
+    "ex_zh": "我的手机从昨天起就没电了。"
+  },
+  {
+    "id": "b0128",
+    "es": "la pantalla",
+    "zh": "屏幕",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "科技",
+    "ex_es": "La pantalla del ordenador es demasiado pequeña.",
+    "ex_zh": "这台电脑的屏幕太小了。"
+  },
+  {
+    "id": "b0129",
+    "es": "el mensaje",
+    "zh": "消息；信息",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "科技",
+    "ex_es": "Te escribí un mensaje esta mañana temprano.",
+    "ex_zh": "我今天一早给你发了条消息。"
+  },
+  {
+    "id": "b0130",
+    "es": "el correo",
+    "zh": "邮件；邮政",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "科技",
+    "ex_es": "Envío el correo por la mañana desde casa.",
+    "ex_zh": "我早上在家发邮件。"
+  },
+  {
+    "id": "b0131",
+    "es": "el programa",
+    "zh": "程序；节目",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "科技",
+    "ex_es": "Este programa sirve para editar fotos.",
+    "ex_zh": "这个程序用来编辑照片。"
+  },
+  {
+    "id": "b0132",
+    "es": "la aplicación",
+    "zh": "应用程序",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "科技",
+    "ex_es": "Uso una aplicación para aprender vocabulario.",
+    "ex_zh": "我用一个应用程序学词汇。"
+  },
+  {
+    "id": "b0133",
+    "es": "la red",
+    "zh": "网络；网",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "科技",
+    "ex_es": "La red del hotel es muy lenta.",
+    "ex_zh": "酒店的网速很慢。"
+  },
+  {
+    "id": "b0134",
+    "es": "la cámara",
+    "zh": "相机；摄像头",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "科技",
+    "ex_es": "Hago fotos con la cámara de mi móvil.",
+    "ex_zh": "我用手机的摄像头拍照。"
+  },
+  {
+    "id": "b0135",
+    "es": "el archivo",
+    "zh": "文件；档案",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "科技",
+    "ex_es": "Guarda el archivo en una carpeta segura.",
+    "ex_zh": "把文件保存在一个安全的文件夹里。"
+  },
+  {
+    "id": "b0136",
+    "es": "la batería",
+    "zh": "电池；电量",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "科技",
+    "ex_es": "La batería de mi portátil dura cinco horas.",
+    "ex_zh": "我的笔记本电脑电池能用五个小时。"
+  },
+  {
+    "id": "b0137",
+    "es": "el cuadro",
+    "zh": "画；图画",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "艺术",
+    "ex_es": "Este cuadro muestra un pueblo junto al mar.",
+    "ex_zh": "这幅画描绘了一个海边的村庄。"
+  },
+  {
+    "id": "b0138",
+    "es": "la pintura",
+    "zh": "绘画；颜料",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "艺术",
+    "ex_es": "La pintura de este artista usa colores muy vivos.",
+    "ex_zh": "这位艺术家的绘画使用了非常鲜艳的色彩。"
+  },
+  {
+    "id": "b0139",
+    "es": "el museo",
+    "zh": "博物馆",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "艺术",
+    "ex_es": "El museo abre de martes a domingo.",
+    "ex_zh": "博物馆周二到周日开放。"
+  },
+  {
+    "id": "b0140",
+    "es": "la película",
+    "zh": "电影",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "艺术",
+    "ex_es": "Vi una película muy divertida en casa.",
+    "ex_zh": "我在家看了一部很好笑的电影。"
+  },
+  {
+    "id": "b0141",
+    "es": "el teatro",
+    "zh": "剧院；戏剧",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "艺术",
+    "ex_es": "Vamos al teatro con mis tíos el viernes.",
+    "ex_zh": "星期五我们和叔叔阿姨去剧院。"
+  },
+  {
+    "id": "b0142",
+    "es": "el concierto",
+    "zh": "音乐会",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "艺术",
+    "ex_es": "El concierto de la banda empieza muy tarde.",
+    "ex_zh": "乐队的音乐会开始得很晚。"
+  },
+  {
+    "id": "b0143",
+    "es": "la fotografía",
+    "zh": "摄影；照片",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "艺术",
+    "ex_es": "La fotografía es mi pasatiempo favorito desde niño.",
+    "ex_zh": "摄影是我从小就喜欢的爱好。"
+  },
+  {
+    "id": "b0144",
+    "es": "el baile",
+    "zh": "舞蹈；舞会",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "艺术",
+    "ex_es": "El baile típico de esta región es muy alegre.",
+    "ex_zh": "这个地区的传统舞蹈非常欢快。"
+  },
+  {
+    "id": "b0145",
+    "es": "el dibujo",
+    "zh": "图画；素描",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "艺术",
+    "ex_es": "Mi hija hace un dibujo de toda la familia.",
+    "ex_zh": "我女儿画了一张全家人的画。"
+  },
+  {
+    "id": "b0146",
+    "es": "el artista",
+    "zh": "艺术家",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "艺术",
+    "ex_es": "El artista pinta en su estudio toda la mañana.",
+    "ex_zh": "这位艺术家整个上午都在画室里作画。"
+  },
+  {
+    "id": "b0147",
+    "es": "la idea",
+    "zh": "想法；主意",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "抽象",
+    "ex_es": "Tu idea para el viaje me parece perfecta.",
+    "ex_zh": "我觉得你关于这次旅行的想法很完美。"
+  },
+  {
+    "id": "b0148",
+    "es": "el sueño",
+    "zh": "梦；梦想",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "抽象",
+    "ex_es": "Mi sueño es vivir cerca del mar.",
+    "ex_zh": "我的梦想是住在海边。"
+  },
+  {
+    "id": "b0149",
+    "es": "el problema",
+    "zh": "问题；难题",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "抽象",
+    "ex_es": "El problema del ruido molesta a los vecinos.",
+    "ex_zh": "噪音问题让邻居们很烦。"
+  },
+  {
+    "id": "b0150",
+    "es": "la solución",
+    "zh": "解决办法",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "抽象",
+    "ex_es": "Buscamos una solución a este problema difícil.",
+    "ex_zh": "我们在为这个难题寻找解决办法。"
+  },
+  {
+    "id": "b0151",
+    "es": "la razón",
+    "zh": "理由；道理",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "抽象",
+    "ex_es": "Tienes razón, este plan es mejor.",
+    "ex_zh": "你说得对，这个计划更好。"
+  },
+  {
+    "id": "b0152",
+    "es": "el cambio",
+    "zh": "变化；改变",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "抽象",
+    "ex_es": "El cambio de horario me viene muy mal.",
+    "ex_zh": "时间的变动对我很不方便。"
+  },
+  {
+    "id": "b0153",
+    "es": "el futuro",
+    "zh": "未来",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "抽象",
+    "ex_es": "En el futuro quiero abrir mi propia tienda.",
+    "ex_zh": "将来我想开一家自己的店。"
+  },
+  {
+    "id": "b0154",
+    "es": "el pasado",
+    "zh": "过去",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "抽象",
+    "ex_es": "No me gusta hablar del pasado en las fiestas.",
+    "ex_zh": "我不喜欢在聚会上谈过去的事。"
+  },
+  {
+    "id": "b0155",
+    "es": "el momento",
+    "zh": "时刻；瞬间",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "抽象",
+    "ex_es": "Este es el momento perfecto para empezar de nuevo.",
+    "ex_zh": "这是重新开始的完美时刻。"
+  },
+  {
+    "id": "b0156",
+    "es": "la suerte",
+    "zh": "运气",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "抽象",
+    "ex_es": "Tengo suerte porque encontré trabajo enseguida.",
+    "ex_zh": "我运气很好，很快就找到了工作。"
+  },
+  {
+    "id": "b0157",
+    "es": "la opinión",
+    "zh": "意见；看法",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "抽象",
+    "ex_es": "En mi opinión, la película es demasiado larga.",
+    "ex_zh": "在我看来，这部电影太长了。"
+  },
+  {
+    "id": "b0158",
+    "es": "la decisión",
+    "zh": "决定",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "抽象",
+    "ex_es": "Fue una decisión difícil para toda la familia.",
+    "ex_zh": "这对全家人来说是个艰难的决定。"
+  },
+  {
+    "id": "b0159",
+    "es": "la duda",
+    "zh": "疑问；疑惑",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "抽象",
+    "ex_es": "Tengo una duda sobre la última pregunta.",
+    "ex_zh": "我对最后一个问题有疑问。"
+  },
+  {
+    "id": "b0160",
+    "es": "la relación",
+    "zh": "关系；联系",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "抽象",
+    "ex_es": "La relación entre las dos hermanas es muy buena.",
+    "ex_zh": "两姐妹之间的关系非常好。"
+  },
+  {
+    "id": "b0161",
+    "es": "la entrevista",
+    "zh": "面试；采访",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "工作",
+    "ex_es": "La entrevista de trabajo fue mejor de lo que esperaba.",
+    "ex_zh": "这次求职面试比我预想的要好。"
+  },
+  {
+    "id": "b0162",
+    "es": "el contrato",
+    "zh": "合同；契约",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "工作",
+    "ex_es": "Firmé el contrato con la empresa la semana pasada.",
+    "ex_zh": "我上周和公司签了合同。"
+  },
+  {
+    "id": "b0163",
+    "es": "el puesto",
+    "zh": "职位；岗位",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "工作",
+    "ex_es": "Ella consiguió un puesto mejor en otra empresa.",
+    "ex_zh": "她在另一家公司得到了一个更好的职位。"
+  },
+  {
+    "id": "b0164",
+    "es": "la jornada",
+    "zh": "工作日；工作时间",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "工作",
+    "ex_es": "La jornada laboral empieza a las ocho de la mañana.",
+    "ex_zh": "工作时间从早上八点开始。"
+  },
+  {
+    "id": "b0165",
+    "es": "el sindicato",
+    "zh": "工会",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "工作",
+    "ex_es": "El sindicato pidió mejores condiciones para los trabajadores.",
+    "ex_zh": "工会为工人们争取更好的条件。"
+  },
+  {
+    "id": "b0166",
+    "es": "el desempleo",
+    "zh": "失业",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "工作",
+    "ex_es": "El desempleo entre los jóvenes ha bajado este año.",
+    "ex_zh": "今年年轻人的失业率有所下降。"
+  },
+  {
+    "id": "b0167",
+    "es": "el presupuesto",
+    "zh": "预算",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "工作",
+    "ex_es": "El presupuesto del proyecto no incluye esta partida.",
+    "ex_zh": "项目预算不包括这一项支出。"
+  },
+  {
+    "id": "b0168",
+    "es": "la responsabilidad",
+    "zh": "责任",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "工作",
+    "ex_es": "Este puesto exige mucha responsabilidad y paciencia.",
+    "ex_zh": "这个职位要求高度的责任心和耐心。"
+  },
+  {
+    "id": "b0169",
+    "es": "el plazo",
+    "zh": "期限；截止时间",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "工作",
+    "ex_es": "Tenemos que entregar el informe antes del plazo.",
+    "ex_zh": "我们必须在期限之前提交报告。"
+  },
+  {
+    "id": "b0170",
+    "es": "el esfuerzo",
+    "zh": "努力；付出",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "工作",
+    "ex_es": "Con esfuerzo y paciencia se aprende cualquier idioma.",
+    "ex_zh": "只要努力和耐心，什么语言都能学会。"
+  },
+  {
+    "id": "b0171",
+    "es": "la gestión",
+    "zh": "管理；经营",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "工作",
+    "ex_es": "La gestión de la empresa ha mejorado mucho últimamente.",
+    "ex_zh": "最近公司的管理改善了很多。"
+  },
+  {
+    "id": "b0172",
+    "es": "el rendimiento",
+    "zh": "绩效；效率",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "工作",
+    "ex_es": "El rendimiento del equipo fue excelente en marzo.",
+    "ex_zh": "三月份团队的绩效非常出色。"
+  },
+  {
+    "id": "b0173",
+    "es": "la asignatura",
+    "zh": "科目；课程",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "学习",
+    "ex_es": "La historia es mi asignatura favorita este curso.",
+    "ex_zh": "历史是我这学年最喜欢的科目。"
+  },
+  {
+    "id": "b0174",
+    "es": "la carrera",
+    "zh": "大学专业；职业生涯",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "学习",
+    "ex_es": "Estudia la carrera de derecho en Salamanca.",
+    "ex_zh": "他在萨拉曼卡读法律专业。"
+  },
+  {
+    "id": "b0175",
+    "es": "la beca",
+    "zh": "奖学金",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "学习",
+    "ex_es": "Gracias a la beca pudo estudiar en el extranjero.",
+    "ex_zh": "多亏了奖学金，他才能到国外留学。"
+  },
+  {
+    "id": "b0176",
+    "es": "la investigación",
+    "zh": "研究；调查",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "学习",
+    "ex_es": "Su investigación sobre el clima es muy interesante.",
+    "ex_zh": "他关于气候的研究很有意思。"
+  },
+  {
+    "id": "b0177",
+    "es": "el conocimiento",
+    "zh": "知识",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "学习",
+    "ex_es": "El conocimiento se construye con años de estudio.",
+    "ex_zh": "知识是靠多年学习积累起来的。"
+  },
+  {
+    "id": "b0178",
+    "es": "la teoría",
+    "zh": "理论",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "学习",
+    "ex_es": "La teoría es fácil, pero la práctica resulta complicada.",
+    "ex_zh": "理论很简单，但实践起来却很复杂。"
+  },
+  {
+    "id": "b0179",
+    "es": "el método",
+    "zh": "方法",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "学习",
+    "ex_es": "Ese método para memorizar palabras funciona muy bien.",
+    "ex_zh": "那个记单词的方法非常有效。"
+  },
+  {
+    "id": "b0180",
+    "es": "la tesis",
+    "zh": "论文；论点",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "学习",
+    "ex_es": "Escribe su tesis sobre la literatura del siglo veinte.",
+    "ex_zh": "他在写关于二十世纪文学的论文。"
+  },
+  {
+    "id": "b0181",
+    "es": "la formación",
+    "zh": "培训；教育",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "学习",
+    "ex_es": "La formación de los empleados es obligatoria cada año.",
+    "ex_zh": "员工培训每年都是必须的。"
+  },
+  {
+    "id": "b0182",
+    "es": "la enseñanza",
+    "zh": "教学；教育",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "学习",
+    "ex_es": "La enseñanza de idiomas necesita mucha paciencia.",
+    "ex_zh": "语言教学需要很大的耐心。"
+  },
+  {
+    "id": "b0183",
+    "es": "el título",
+    "zh": "学位；头衔",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "学习",
+    "ex_es": "Obtuvo el título después de cinco años de estudio.",
+    "ex_zh": "他学习五年后获得了学位。"
+  },
+  {
+    "id": "b0184",
+    "es": "el dato",
+    "zh": "数据；资料",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "科技",
+    "ex_es": "Los datos del estudio confirman esta conclusión.",
+    "ex_zh": "研究数据证实了这一结论。"
+  },
+  {
+    "id": "b0185",
+    "es": "la nostalgia",
+    "zh": "怀旧；思乡",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "情感",
+    "ex_es": "La nostalgia de su tierra lo acompaña siempre.",
+    "ex_zh": "对故乡的思念一直伴随着他。"
+  },
+  {
+    "id": "b0186",
+    "es": "la confianza",
+    "zh": "信任；信心",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "情感",
+    "ex_es": "La confianza se gana poco a poco, nunca deprisa.",
+    "ex_zh": "信任是一点点赢得的，从来不会很快。"
+  },
+  {
+    "id": "b0187",
+    "es": "el orgullo",
+    "zh": "骄傲；自豪",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "情感",
+    "ex_es": "Siente un gran orgullo por el trabajo de su hija.",
+    "ex_zh": "他为女儿的工作感到非常自豪。"
+  },
+  {
+    "id": "b0188",
+    "es": "la envidia",
+    "zh": "嫉妒；羡慕",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "情感",
+    "ex_es": "La envidia de sus compañeros resultó bastante evidente.",
+    "ex_zh": "同事们的嫉妒相当明显。"
+  },
+  {
+    "id": "b0189",
+    "es": "la culpa",
+    "zh": "过错；罪责",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "情感",
+    "ex_es": "Siempre siente culpa cuando llega tarde a casa.",
+    "ex_zh": "他回家晚了总会感到内疚。"
+  },
+  {
+    "id": "b0190",
+    "es": "el entusiasmo",
+    "zh": "热情；热忱",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "情感",
+    "ex_es": "Habla de su nuevo proyecto con mucho entusiasmo.",
+    "ex_zh": "他满怀热情地谈起自己的新项目。"
+  },
+  {
+    "id": "b0191",
+    "es": "el deseo",
+    "zh": "愿望；欲望",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "情感",
+    "ex_es": "Su mayor deseo es viajar por toda Asia.",
+    "ex_zh": "他最大的愿望是走遍亚洲。"
+  },
+  {
+    "id": "b0192",
+    "es": "la preocupación",
+    "zh": "担忧；忧虑",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "情感",
+    "ex_es": "La preocupación por su hijo no la deja dormir.",
+    "ex_zh": "对儿子的担忧让她睡不着觉。"
+  },
+  {
+    "id": "b0193",
+    "es": "el estrés",
+    "zh": "压力；紧张",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "情感",
+    "ex_es": "El estrés del trabajo afecta a su salud.",
+    "ex_zh": "工作压力影响着他的健康。"
+  },
+  {
+    "id": "b0194",
+    "es": "la ilusión",
+    "zh": "期待；憧憬",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "情感",
+    "ex_es": "Me hace mucha ilusión verte después de tanto tiempo.",
+    "ex_zh": "这么久之后能见到你，我特别期待。"
+  },
+  {
+    "id": "b0195",
+    "es": "la timidez",
+    "zh": "害羞；腼腆",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "情感",
+    "ex_es": "Su timidez le impide hablar en público.",
+    "ex_zh": "他的腼腆使他不愿在众人面前讲话。"
+  },
+  {
+    "id": "b0196",
+    "es": "la paciencia",
+    "zh": "耐心",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "情感",
+    "ex_es": "Con paciencia y cariño todo se arregla.",
+    "ex_zh": "有耐心和关爱，一切都能解决。"
+  },
+  {
+    "id": "b0197",
+    "es": "la ternura",
+    "zh": "温柔；亲切",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "情感",
+    "ex_es": "Trata a los niños con una ternura enorme.",
+    "ex_zh": "他对待孩子们无比温柔。"
+  },
+  {
+    "id": "b0198",
+    "es": "el medio ambiente",
+    "zh": "环境",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "自然",
+    "ex_es": "Debemos proteger el medio ambiente entre todos.",
+    "ex_zh": "我们大家应该一起保护环境。"
+  },
+  {
+    "id": "b0199",
+    "es": "el paisaje",
+    "zh": "风景；景色",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "自然",
+    "ex_es": "El paisaje de esta región cambia con cada estación.",
+    "ex_zh": "这个地区的景色随季节变化。"
+  },
+  {
+    "id": "b0200",
+    "es": "la sequía",
+    "zh": "干旱",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "自然",
+    "ex_es": "La sequía de este verano ha secado los campos.",
+    "ex_zh": "今年夏天的干旱让田野干裂。"
+  },
+  {
+    "id": "b0201",
+    "es": "la contaminación",
+    "zh": "污染",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "自然",
+    "ex_es": "La contaminación del aire es un problema grave.",
+    "ex_zh": "空气污染是个严重的问题。"
+  },
+  {
+    "id": "b0202",
+    "es": "la energía",
+    "zh": "能源；能量",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "自然",
+    "ex_es": "El país apuesta por la energía solar y el viento.",
+    "ex_zh": "这个国家大力发展太阳能和风能。"
+  },
+  {
+    "id": "b0203",
+    "es": "el clima",
+    "zh": "气候",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "自然",
+    "ex_es": "El clima de la costa es suave en invierno.",
+    "ex_zh": "沿海地区冬天气候温和。"
+  },
+  {
+    "id": "b0204",
+    "es": "la especie",
+    "zh": "物种；种类",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "自然",
+    "ex_es": "Esta especie de pájaro está en peligro.",
+    "ex_zh": "这种鸟正面临危险。"
+  },
+  {
+    "id": "b0205",
+    "es": "la selva",
+    "zh": "雨林；丛林",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "自然",
+    "ex_es": "En esta selva viven miles de especies distintas.",
+    "ex_zh": "这片雨林里生活着数千种不同的物种。"
+  },
+  {
+    "id": "b0206",
+    "es": "la costa",
+    "zh": "海岸；海滨",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "自然",
+    "ex_es": "Los pueblos de la costa viven del turismo.",
+    "ex_zh": "沿海的村庄靠旅游业为生。"
+  },
+  {
+    "id": "b0207",
+    "es": "el desierto",
+    "zh": "沙漠",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "自然",
+    "ex_es": "El desierto del sur es enorme y silencioso.",
+    "ex_zh": "南部的沙漠广阔而寂静。"
+  },
+  {
+    "id": "b0208",
+    "es": "la tormenta",
+    "zh": "暴风雨",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "自然",
+    "ex_es": "La tormenta de anoche dejó el pueblo sin luz.",
+    "ex_zh": "昨晚的暴风雨让村子停了电。"
+  },
+  {
+    "id": "b0209",
+    "es": "el reciclaje",
+    "zh": "回收利用",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "自然",
+    "ex_es": "El reciclaje del vidrio y el papel es obligatorio.",
+    "ex_zh": "玻璃和纸张的回收是强制性的。"
+  },
+  {
+    "id": "b0210",
+    "es": "la sociedad",
+    "zh": "社会",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "社会",
+    "ex_es": "La sociedad cambia lentamente pero cambia.",
+    "ex_zh": "社会变化缓慢，但确实在变。"
+  },
+  {
+    "id": "b0211",
+    "es": "la política",
+    "zh": "政治；政策",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "社会",
+    "ex_es": "No me gusta hablar de política en la cena.",
+    "ex_zh": "我不喜欢在晚餐时谈政治。"
+  },
+  {
+    "id": "b0212",
+    "es": "la economía",
+    "zh": "经济",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "社会",
+    "ex_es": "La economía del país creció durante dos años seguidos.",
+    "ex_zh": "这个国家的经济连续两年增长。"
+  },
+  {
+    "id": "b0213",
+    "es": "la igualdad",
+    "zh": "平等",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "社会",
+    "ex_es": "La igualdad entre hombres y mujeres es indispensable.",
+    "ex_zh": "男女平等是不可缺少的。"
+  },
+  {
+    "id": "b0214",
+    "es": "la pobreza",
+    "zh": "贫困",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "社会",
+    "ex_es": "La pobreza obliga a muchas familias a emigrar.",
+    "ex_zh": "贫困迫使许多家庭移居他乡。"
+  },
+  {
+    "id": "b0215",
+    "es": "la justicia",
+    "zh": "正义；司法",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "社会",
+    "ex_es": "La justicia tardó dos años en llegar.",
+    "ex_zh": "正义用了两年才到来。"
+  },
+  {
+    "id": "b0216",
+    "es": "la manifestación",
+    "zh": "游行；示威",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "社会",
+    "ex_es": "La manifestación de los vecinos fue muy tranquila.",
+    "ex_zh": "居民们的游行非常平静。"
+  },
+  {
+    "id": "b0217",
+    "es": "el derecho",
+    "zh": "权利；法学",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "社会",
+    "ex_es": "Todos los niños tienen derecho a la educación.",
+    "ex_zh": "所有孩子都有受教育的权利。"
+  },
+  {
+    "id": "b0218",
+    "es": "la vivienda",
+    "zh": "住房；住宅",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "社会",
+    "ex_es": "El precio de la vivienda sube cada año más.",
+    "ex_zh": "住房价格每年都在上涨。"
+  },
+  {
+    "id": "b0219",
+    "es": "la población",
+    "zh": "人口",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "社会",
+    "ex_es": "La población del pueblo disminuye desde hace décadas.",
+    "ex_zh": "这个村庄的人口几十年来一直在减少。"
+  },
+  {
+    "id": "b0220",
+    "es": "la ley",
+    "zh": "法律",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "社会",
+    "ex_es": "La ley prohíbe fumar dentro de los hospitales.",
+    "ex_zh": "法律禁止在医院内吸烟。"
+  },
+  {
+    "id": "b0221",
+    "es": "el ciudadano",
+    "zh": "公民",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "社会",
+    "ex_es": "Cada ciudadano puede votar a los dieciocho años.",
+    "ex_zh": "每个公民年满十八岁就可以投票。"
+  },
+  {
+    "id": "b0222",
+    "es": "el conflicto",
+    "zh": "冲突",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "社会",
+    "ex_es": "El conflicto entre los dos países duró años.",
+    "ex_zh": "两国之间的冲突持续了多年。"
+  },
+  {
+    "id": "b0223",
+    "es": "la tecnología",
+    "zh": "科技；技术",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "科技",
+    "ex_es": "La tecnología ha cambiado la forma de trabajar.",
+    "ex_zh": "科技改变了人们的工作方式。"
+  },
+  {
+    "id": "b0224",
+    "es": "la inteligencia artificial",
+    "zh": "人工智能",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "科技",
+    "ex_es": "La inteligencia artificial ayuda a detectar enfermedades.",
+    "ex_zh": "人工智能有助于发现疾病。"
+  },
+  {
+    "id": "b0225",
+    "es": "el enlace",
+    "zh": "链接",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "科技",
+    "ex_es": "El enlace que enviaste ya no funciona.",
+    "ex_zh": "你发来的链接已经打不开了。"
+  },
+  {
+    "id": "b0226",
+    "es": "la base de datos",
+    "zh": "数据库",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "科技",
+    "ex_es": "La base de datos contiene miles de registros.",
+    "ex_zh": "这个数据库包含数千条记录。"
+  },
+  {
+    "id": "b0227",
+    "es": "el dispositivo",
+    "zh": "设备；装置",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "科技",
+    "ex_es": "Este dispositivo mide la temperatura cada minuto.",
+    "ex_zh": "这个设备每分钟测量一次温度。"
+  },
+  {
+    "id": "b0228",
+    "es": "la innovación",
+    "zh": "创新",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "科技",
+    "ex_es": "La innovación exige invertir dinero y tiempo.",
+    "ex_zh": "创新需要投入金钱和时间。"
+  },
+  {
+    "id": "b0229",
+    "es": "el algoritmo",
+    "zh": "算法",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "科技",
+    "ex_es": "El algoritmo decide qué vídeos aparecen primero.",
+    "ex_zh": "算法决定哪些视频排在前面。"
+  },
+  {
+    "id": "b0230",
+    "es": "la ciberseguridad",
+    "zh": "网络安全",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "科技",
+    "ex_es": "La ciberseguridad protege los datos de los usuarios.",
+    "ex_zh": "网络安全保护用户的数据。"
+  },
+  {
+    "id": "b0231",
+    "es": "el desarrollo",
+    "zh": "发展；开发",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "科技",
+    "ex_es": "El desarrollo de esta aplicación duró dos años.",
+    "ex_zh": "这个应用程序的开发历时两年。"
+  },
+  {
+    "id": "b0232",
+    "es": "la señal",
+    "zh": "信号",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "科技",
+    "ex_es": "La señal del móvil es muy mala aquí.",
+    "ex_zh": "这里的手机信号很差。"
+  },
+  {
+    "id": "b0233",
+    "es": "la contraseña",
+    "zh": "密码",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "科技",
+    "ex_es": "Cambia la contraseña al menos cada dos meses.",
+    "ex_zh": "至少每两个月更换一次密码。"
+  },
+  {
+    "id": "b0234",
+    "es": "el usuario",
+    "zh": "用户",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "科技",
+    "ex_es": "Cada usuario tiene su propio perfil privado.",
+    "ex_zh": "每个用户都有自己私人的账户页面。"
+  },
+  {
+    "id": "b0235",
+    "es": "la obra",
+    "zh": "作品；工程",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "艺术",
+    "ex_es": "Esta obra del autor refleja su vida entera.",
+    "ex_zh": "这位作家的这部作品反映了他的一生。"
+  },
+  {
+    "id": "b0236",
+    "es": "la escultura",
+    "zh": "雕塑",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "艺术",
+    "ex_es": "La escultura del parque está hecha de hierro.",
+    "ex_zh": "公园里的那座雕塑是铁制的。"
+  },
+  {
+    "id": "b0237",
+    "es": "la literatura",
+    "zh": "文学",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "艺术",
+    "ex_es": "La literatura española del siglo veinte es fascinante.",
+    "ex_zh": "二十世纪的西班牙文学非常迷人。"
+  },
+  {
+    "id": "b0238",
+    "es": "el poema",
+    "zh": "诗；诗歌",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "艺术",
+    "ex_es": "Ese poema habla del mar y de la infancia.",
+    "ex_zh": "那首诗讲述大海与童年。"
+  },
+  {
+    "id": "b0239",
+    "es": "la actuación",
+    "zh": "表演；演出",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "艺术",
+    "ex_es": "La actuación del actor recibió aplausos largos.",
+    "ex_zh": "这位演员的表演赢得了长久的掌声。"
+  },
+  {
+    "id": "b0240",
+    "es": "el estilo",
+    "zh": "风格；样式",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "艺术",
+    "ex_es": "Su estilo de pintar es inconfundible para mí.",
+    "ex_zh": "他的绘画风格在我看来独一无二。"
+  },
+  {
+    "id": "b0241",
+    "es": "la creatividad",
+    "zh": "创造力",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "艺术",
+    "ex_es": "La creatividad de los niños me sorprende siempre.",
+    "ex_zh": "孩子们的创造力总让我惊讶。"
+  },
+  {
+    "id": "b0242",
+    "es": "el talento",
+    "zh": "天赋；才能",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "艺术",
+    "ex_es": "Tiene un talento enorme para la música clásica.",
+    "ex_zh": "他在古典音乐方面有极高的天赋。"
+  },
+  {
+    "id": "b0243",
+    "es": "la exposición",
+    "zh": "展览",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "艺术",
+    "ex_es": "La exposición del museo cierra a finales de abril.",
+    "ex_zh": "博物馆的展览四月底结束。"
+  },
+  {
+    "id": "b0244",
+    "es": "el ritmo",
+    "zh": "节奏",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "艺术",
+    "ex_es": "El ritmo de esta canción invita a bailar.",
+    "ex_zh": "这首歌的节奏让人想跳舞。"
+  },
+  {
+    "id": "b0245",
+    "es": "la novela",
+    "zh": "小说",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "艺术",
+    "ex_es": "Terminé la novela en solo tres días.",
+    "ex_zh": "我只用三天就读完了这本小说。"
+  },
+  {
+    "id": "b0246",
+    "es": "el público",
+    "zh": "观众；公众",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "艺术",
+    "ex_es": "El público aplaudió durante más de cinco minutos.",
+    "ex_zh": "观众鼓掌了五分多钟。"
+  },
+  {
+    "id": "b0247",
+    "es": "la consecuencia",
+    "zh": "后果；结果",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "抽象",
+    "ex_es": "Cada decisión tiene una consecuencia a largo plazo.",
+    "ex_zh": "每个决定都会带来长远的后果。"
+  },
+  {
+    "id": "b0248",
+    "es": "la causa",
+    "zh": "原因；事业",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "抽象",
+    "ex_es": "La causa del incendio todavía se investiga.",
+    "ex_zh": "火灾的原因仍在调查中。"
+  },
+  {
+    "id": "b0249",
+    "es": "el objetivo",
+    "zh": "目标；目的",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "抽象",
+    "ex_es": "Mi objetivo este año es terminar los estudios.",
+    "ex_zh": "我今年的目标是完成学业。"
+  },
+  {
+    "id": "b0250",
+    "es": "el valor",
+    "zh": "价值；勇气",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "抽象",
+    "ex_es": "No entiendo el valor de ese cuadro antiguo.",
+    "ex_zh": "我不懂那幅古画的价值。"
+  },
+  {
+    "id": "b0251",
+    "es": "la imaginación",
+    "zh": "想象力",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "抽象",
+    "ex_es": "Los libros despiertan la imaginación de los niños.",
+    "ex_zh": "书籍能激发孩子们的想象力。"
+  },
+  {
+    "id": "b0252",
+    "es": "la memoria",
+    "zh": "记忆；记忆力",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "抽象",
+    "ex_es": "Su memoria para los nombres es realmente buena.",
+    "ex_zh": "他记名字的能力真的很好。"
+  },
+  {
+    "id": "b0253",
+    "es": "la posibilidad",
+    "zh": "可能性",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "抽象",
+    "ex_es": "Existe la posibilidad de cambiar la fecha.",
+    "ex_zh": "有可能更改日期。"
+  },
+  {
+    "id": "b0254",
+    "es": "la necesidad",
+    "zh": "需要；必要性",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "抽象",
+    "ex_es": "La necesidad de descansar es más que evidente.",
+    "ex_zh": "休息的必要性再明显不过了。"
+  },
+  {
+    "id": "b0255",
+    "es": "la influencia",
+    "zh": "影响",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "抽象",
+    "ex_es": "La influencia de su maestro fue decisiva.",
+    "ex_zh": "他的老师的影响起到了决定性作用。"
+  },
+  {
+    "id": "b0256",
+    "es": "la diferencia",
+    "zh": "差别；差异",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "抽象",
+    "ex_es": "La diferencia de precios entre las tiendas es enorme.",
+    "ex_zh": "商店之间的价格差别很大。"
+  },
+  {
+    "id": "b0257",
+    "es": "el origen",
+    "zh": "起源；来源",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "抽象",
+    "ex_es": "El origen de esta tradición se pierde en el tiempo.",
+    "ex_zh": "这个传统的起源已湮没在时间里。"
+  },
+  {
+    "id": "b0258",
+    "es": "la conclusión",
+    "zh": "结论",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "抽象",
+    "ex_es": "La conclusión del informe sorprendió a todos.",
+    "ex_zh": "报告的结论让所有人都感到意外。"
+  },
+  {
+    "id": "b0259",
+    "es": "el riesgo",
+    "zh": "风险",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "抽象",
+    "ex_es": "Correr ese riesgo no parece nada sensato.",
+    "ex_zh": "冒那样的风险一点也不明智。"
+  },
+  {
+    "id": "b0260",
+    "es": "la condición",
+    "zh": "条件；状况",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "抽象",
+    "ex_es": "Aceptó el trabajo con una sola condición.",
+    "ex_zh": "他只提了一个条件就接受了这份工作。"
+  }
+]

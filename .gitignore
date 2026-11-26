@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 个人学习进度，不上传
+userdata/
+
+# 打包中间产物与产物：仓库只留源码
+build/
+dist/
+*.spec
+selftest.log

@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "a0001",
+    "es": "la casa",
+    "zh": "家；房子",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "La casa de mis abuelos tiene un jardín pequeño.",
+    "ex_zh": "我祖父母的房子有一个小花园。"
+  },
+  {
+    "id": "a0002",
+    "es": "el amigo",
+    "zh": "朋友",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Mi amigo Pablo vive en Madrid con su familia.",
+    "ex_zh": "我的朋友巴勃罗和家人住在马德里。"
+  },
+  {
+    "id": "a0003",
+    "es": "la familia",
+    "zh": "家庭；家人",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Mi familia cena junta todos los domingos.",
+    "ex_zh": "我们全家每个星期天一起吃晚饭。"
+  },
+  {
+    "id": "a0004",
+    "es": "el trabajo",
+    "zh": "工作；劳动",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Mi padre va al trabajo en autobús cada mañana.",
+    "ex_zh": "我父亲每天早上坐公共汽车去上班。"
+  },
+  {
+    "id": "a0005",
+    "es": "el colegio",
+    "zh": "学校",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Los niños van al colegio a las ocho.",
+    "ex_zh": "孩子们八点去学校。"
+  },
+  {
+    "id": "a0006",
+    "es": "el libro",
+    "zh": "书",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Estoy leyendo un libro muy interesante sobre historia.",
+    "ex_zh": "我正在读一本非常有趣的历史书。"
+  },
+  {
+    "id": "a0007",
+    "es": "la música",
+    "zh": "音乐",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Me gusta escuchar música mientras cocino.",
+    "ex_zh": "我喜欢边做饭边听音乐。"
+  },
+  {
+    "id": "a0008",
+    "es": "el perro",
+    "zh": "狗",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Nuestro perro duerme en la cocina por la noche.",
+    "ex_zh": "我们的狗晚上睡在厨房里。"
+  },
+  {
+    "id": "a0009",
+    "es": "el gato",
+    "zh": "猫",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "El gato de mi vecina es blanco y negro.",
+    "ex_zh": "我邻居的猫是黑白相间的。"
+  },
+  {
+    "id": "a0010",
+    "es": "la ciudad",
+    "zh": "城市",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Vivo en una ciudad grande y muy ruidosa.",
+    "ex_zh": "我住在一座很大很吵的城市里。"
+  },
+  {
+    "id": "a0011",
+    "es": "el pueblo",
+    "zh": "村庄；小镇",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Mis padres viven en un pueblo cerca de la montaña.",
+    "ex_zh": "我父母住在山附近的一个小镇上。"
+  },
+  {
+    "id": "a0012",
+    "es": "la gente",
+    "zh": "人们",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "La gente de este barrio es muy amable.",
+    "ex_zh": "这个街区的人非常友善。"
+  },
+  {
+    "id": "a0013",
+    "es": "el vecino",
+    "zh": "邻居",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Mi vecino siempre me saluda por la mañana.",
+    "ex_zh": "我的邻居早上总是跟我打招呼。"
+  },
+  {
+    "id": "a0014",
+    "es": "el idioma",
+    "zh": "语言",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "El español es un idioma bonito y útil.",
+    "ex_zh": "西班牙语是一门美丽又有用的语言。"
+  },
+  {
+    "id": "a0015",
+    "es": "la palabra",
+    "zh": "词；单词",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "No entiendo el significado de esta palabra.",
+    "ex_zh": "我不明白这个词的意思。"
+  },
+  {
+    "id": "a0016",
+    "es": "el nombre",
+    "zh": "名字",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Mi nombre es Lucía y soy de Sevilla.",
+    "ex_zh": "我叫露西亚，来自塞维利亚。"
+  },
+  {
+    "id": "a0017",
+    "es": "la pregunta",
+    "zh": "问题；提问",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "El profesor nos hizo una pregunta difícil.",
+    "ex_zh": "老师问了我们一个很难的问题。"
+  },
+  {
+    "id": "a0018",
+    "es": "el problema",
+    "zh": "问题；麻烦",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Tenemos un problema con el coche viejo.",
+    "ex_zh": "我们的旧车出了问题。"
+  },
+  {
+    "id": "a0019",
+    "es": "la idea",
+    "zh": "主意；想法",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Es una buena idea cenar en casa hoy.",
+    "ex_zh": "今天在家吃晚饭是个好主意。"
+  },
+  {
+    "id": "a0020",
+    "es": "la costumbre",
+    "zh": "习惯；风俗",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "En mi pueblo es costumbre cenar tarde.",
+    "ex_zh": "在我家乡，晚饭吃得晚是一种习惯。"
+  },
+  {
+    "id": "a0021",
+    "es": "la noticia",
+    "zh": "新闻；消息",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "La noticia salió hoy en todos los periódicos.",
+    "ex_zh": "这条新闻今天登上了所有报纸。"
+  },
+  {
+    "id": "a0022",
+    "es": "el periódico",
+    "zh": "报纸",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "Mi abuelo lee el periódico después del desayuno.",
+    "ex_zh": "我祖父早饭后读报纸。"
+  },
+  {
+    "id": "a0023",
+    "es": "la reunión",
+    "zh": "会议；聚会",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "La reunión empieza a las diez en punto.",
+    "ex_zh": "会议十点整开始。"
+  },
+  {
+    "id": "a0024",
+    "es": "el barrio",
+    "zh": "街区；社区",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "Mi barrio tiene un mercado y dos plazas.",
+    "ex_zh": "我住的街区有一个市场和两个广场。"
+  },
+  {
+    "id": "a0025",
+    "es": "el extranjero",
+    "zh": "外国人；国外",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "Muchos extranjeros visitan Granada cada primavera.",
+    "ex_zh": "每年春天有很多外国人来格拉纳达。"
+  },
+  {
+    "id": "a0026",
+    "es": "la infancia",
+    "zh": "童年",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "Recuerdo mi infancia en el campo con cariño.",
+    "ex_zh": "我满怀深情地回忆在乡下的童年。"
+  },
+  {
+    "id": "a0027",
+    "es": "el recuerdo",
+    "zh": "回忆；纪念品",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "Guardo un buen recuerdo de aquel viaje.",
+    "ex_zh": "我对那次旅行保留着美好的回忆。"
+  },
+  {
+    "id": "a0028",
+    "es": "la respuesta",
+    "zh": "回答；答案",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "Su respuesta fue correcta y muy clara.",
+    "ex_zh": "他的回答正确而且非常清楚。"
+  },
+  {
+    "id": "a0029",
+    "es": "la rutina",
+    "zh": "日常；惯例",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "Mi rutina diaria empieza con un buen desayuno.",
+    "ex_zh": "我的日常从一顿丰盛的早餐开始。"
+  },
+  {
+    "id": "a0030",
+    "es": "el hábito",
+    "zh": "习惯",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "Leer antes de dormir es un hábito saludable.",
+    "ex_zh": "睡前阅读是一种健康的习惯。"
+  },
+  {
+    "id": "a0031",
+    "es": "la actitud",
+    "zh": "态度",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "Me gusta su actitud positiva ante los problemas.",
+    "ex_zh": "我喜欢他面对问题时的积极态度。"
+  },
+  {
+    "id": "a0032",
+    "es": "el ambiente",
+    "zh": "氛围；环境",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "En la fiesta había un ambiente muy alegre.",
+    "ex_zh": "派对上的气氛非常欢快。"
+  },
+  {
+    "id": "a0033",
+    "es": "la convivencia",
+    "zh": "共处；相处",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "生活",
+    "ex_es": "La convivencia con los vecinos es bastante tranquila.",
+    "ex_zh": "和邻居们的相处相当平静。"
+  },
+  {
+    "id": "a0034",
+    "es": "el esfuerzo",
+    "zh": "努力；付出",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "生活",
+    "ex_es": "Con esfuerzo y paciencia se aprende cualquier idioma.",
+    "ex_zh": "靠努力和耐心可以学会任何语言。"
+  },
+  {
+    "id": "a0035",
+    "es": "la confianza",
+    "zh": "信任；信心",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "生活",
+    "ex_es": "La confianza se construye poco a poco.",
+    "ex_zh": "信任是一点一点建立起来的。"
+  },
+  {
+    "id": "a0036",
+    "es": "el compromiso",
+    "zh": "承诺；责任感",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "生活",
+    "ex_es": "Para mí, el compromiso con el trabajo es importante.",
+    "ex_zh": "对我来说，对工作的责任感很重要。"
+  },
+  {
+    "id": "a0037",
+    "es": "la soledad",
+    "zh": "孤独",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "生活",
+    "ex_es": "La soledad de las ciudades grandes me sorprende.",
+    "ex_zh": "大城市的孤独让我感到惊讶。"
+  },
+  {
+    "id": "a0038",
+    "es": "el comportamiento",
+    "zh": "行为；举止",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "生活",
+    "ex_es": "Su comportamiento en clase fue ejemplar.",
+    "ex_zh": "他在课堂上的表现堪称模范。"
+  },
+  {
+    "id": "a0039",
+    "es": "el prejuicio",
+    "zh": "偏见",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "生活",
+    "ex_es": "Los prejuicios dificultan la convivencia entre culturas.",
+    "ex_zh": "偏见使不同文化间的共处变得困难。"
+  },
+  {
+    "id": "a0040",
+    "es": "la desigualdad",
+    "zh": "不平等",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "生活",
+    "ex_es": "La desigualdad económica afecta a muchas familias.",
+    "ex_zh": "经济不平等影响着许多家庭。"
+  },
+  {
+    "id": "a0041",
+    "es": "el agua",
+    "zh": "水",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "饮食",
+    "ex_es": "Bebo un vaso de agua fría después de correr.",
+    "ex_zh": "我跑步后喝一杯凉水。"
+  },
+  {
+    "id": "a0042",
+    "es": "el pan",
+    "zh": "面包",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "饮食",
+    "ex_es": "Compro pan fresco en la panadería cada mañana.",
+    "ex_zh": "我每天早上在面包店买新鲜面包。"
+  },
+  {
+    "id": "a0043",
+    "es": "la leche",
+    "zh": "牛奶",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "饮食",
+    "ex_es": "Los niños toman leche con galletas por la tarde.",
+    "ex_zh": "孩子们下午喝牛奶吃饼干。"
+  },
+  {
+    "id": "a0044",
+    "es": "el café",
+    "zh": "咖啡",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "饮食",
+    "ex_es": "Mi madre toma café con leche por la mañana.",
+    "ex_zh": "我母亲早上喝牛奶咖啡。"
+  },
+  {
+    "id": "a0045",
+    "es": "la carne",
+    "zh": "肉",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "饮食",
+    "ex_es": "La carne de este restaurante está muy buena.",
+    "ex_zh": "这家餐馆的肉很好吃。"
+  },
+  {
+    "id": "a0046",
+    "es": "el pescado",
+    "zh": "鱼；鱼肉",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "饮食",
+    "ex_es": "El pescado fresco es más caro que el pollo.",
+    "ex_zh": "新鲜鱼肉比鸡肉贵。"
+  },
+  {
+    "id": "a0047",
+    "es": "la fruta",
+    "zh": "水果",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "饮食",
+    "ex_es": "Como fruta todos los días después de comer.",
+    "ex_zh": "我每天饭后吃水果。"
+  },
+  {
+    "id": "a0048",
+    "es": "la verdura",
+    "zh": "蔬菜",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "饮食",
+    "ex_es": "Mi hijo no quiere comer verdura en la cena.",
+    "ex_zh": "我儿子晚饭不想吃蔬菜。"
+  },
+  {
+    "id": "a0049",
+    "es": "el arroz",
+    "zh": "米；米饭",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "饮食",
+    "ex_es": "En Valencia cocinan un arroz delicioso los domingos.",
+    "ex_zh": "在瓦伦西亚，人们星期天会做美味的米饭。"
+  },
+  {
+    "id": "a0050",
+    "es": "el huevo",
+    "zh": "鸡蛋",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "饮食",
+    "ex_es": "Desayuno dos huevos fritos con pan.",
+    "ex_zh": "我早饭吃两个煎蛋配面包。"
+  },
+  {
+    "id": "a0051",
+    "es": "el queso",
+    "zh": "奶酪",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "饮食",
+    "ex_es": "Me encanta el queso manchego con un poco de pan.",
+    "ex_zh": "我非常喜欢曼彻格奶酪配一点面包。"
+  },
+  {
+    "id": "a0052",
+    "es": "el vino",
+    "zh": "葡萄酒",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "饮食",
+    "ex_es": "Bebemos un vaso de vino tinto en la cena.",
+    "ex_zh": "我们晚饭时喝一杯红葡萄酒。"
+  },
+  {
+    "id": "a0053",
+    "es": "la comida",
+    "zh": "食物；饭菜",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "饮食",
+    "ex_es": "La comida de mi abuela siempre está deliciosa.",
+    "ex_zh": "我奶奶做的饭菜总是很好吃。"
+  },
+  {
+    "id": "a0054",
+    "es": "la cena",
+    "zh": "晚餐；晚饭",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "饮食",
+    "ex_es": "La cena está lista a las nueve.",
+    "ex_zh": "晚饭九点准备好了。"
+  },
+  {
+    "id": "a0055",
+    "es": "el desayuno",
+    "zh": "早餐",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "饮食",
+    "ex_es": "El desayuno del hotel incluye café y tostadas.",
+    "ex_zh": "酒店的早餐包括咖啡和烤面包。"
+  },
+  {
+    "id": "a0056",
+    "es": "la sopa",
+    "zh": "汤",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "饮食",
+    "ex_es": "Mi madre prepara una sopa caliente en invierno.",
+    "ex_zh": "我母亲冬天做热汤。"
+  },
+  {
+    "id": "a0057",
+    "es": "el azúcar",
+    "zh": "糖",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "饮食",
+    "ex_es": "Pongo un poco de azúcar en el café.",
+    "ex_zh": "我在咖啡里放一点糖。"
+  },
+  {
+    "id": "a0058",
+    "es": "la sal",
+    "zh": "盐",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "饮食",
+    "ex_es": "Falta un poco de sal en esta sopa.",
+    "ex_zh": "这汤里少了点盐。"
+  },
+  {
+    "id": "a0059",
+    "es": "el aceite",
+    "zh": "油；食用油",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "饮食",
+    "ex_es": "Usa aceite de oliva para cocinar el pescado.",
+    "ex_zh": "用橄榄油来做鱼。"
+  },
+  {
+    "id": "a0060",
+    "es": "el pollo",
+    "zh": "鸡；鸡肉",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "饮食",
+    "ex_es": "El pollo asado del domingo es una tradición familiar.",
+    "ex_zh": "星期天的烤鸡是家里的传统。"
+  },
+  {
+    "id": "a0061",
+    "es": "la patata",
+    "zh": "土豆；马铃薯",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "饮食",
+    "ex_es": "Mi hermano peló las patatas para la tortilla.",
+    "ex_zh": "我哥哥削了土豆准备做煎蛋饼。"
+  },
+  {
+    "id": "a0062",
+    "es": "el tomate",
+    "zh": "西红柿；番茄",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "饮食",
+    "ex_es": "Corté un tomate y lo puse en la ensalada.",
+    "ex_zh": "我切了个西红柿放进沙拉里。"
+  },
+  {
+    "id": "a0063",
+    "es": "la naranja",
+    "zh": "橙子",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "饮食",
+    "ex_es": "Me tomo un zumo de naranja cada mañana.",
+    "ex_zh": "我每天早上喝一杯橙汁。"
+  },
+  {
+    "id": "a0064",
+    "es": "el postre",
+    "zh": "甜点",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "饮食",
+    "ex_es": "De postre pedimos tarta de chocolate.",
+    "ex_zh": "甜点我们点了巧克力蛋糕。"
+  },
+  {
+    "id": "a0065",
+    "es": "la cuenta",
+    "zh": "账单",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "饮食",
+    "ex_es": "Camarero, ¿nos trae la cuenta, por favor?",
+    "ex_zh": "服务员，请给我们账单好吗？"
+  },
+  {
+    "id": "a0066",
+    "es": "el camarero",
+    "zh": "服务员；侍者",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "饮食",
+    "ex_es": "El camarero nos recomendó el pescado del día.",
+    "ex_zh": "服务员向我们推荐了当天的鱼。"
+  },
+  {
+    "id": "a0067",
+    "es": "la receta",
+    "zh": "食谱；处方",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "饮食",
+    "ex_es": "La receta de mi abuela tiene cuatro ingredientes.",
+    "ex_zh": "我祖母的食谱只有四种食材。"
+  },
+  {
+    "id": "a0068",
+    "es": "el sabor",
+    "zh": "味道；风味",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "饮食",
+    "ex_es": "Esta sopa tiene un sabor muy especial.",
+    "ex_zh": "这汤味道很特别。"
+  },
+  {
+    "id": "a0069",
+    "es": "la dieta",
+    "zh": "饮食；节食",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "饮食",
+    "ex_es": "El médico me recomendó una dieta rica en verduras.",
+    "ex_zh": "医生建议我吃富含蔬菜的饮食。"
+  },
+  {
+    "id": "a0070",
+    "es": "el ingrediente",
+    "zh": "食材；成分",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "饮食",
+    "ex_es": "Me falta un ingrediente para terminar la receta.",
+    "ex_zh": "我还缺一种食材才能做完这道菜。"
+  },
+  {
+    "id": "a0071",
+    "es": "la gastronomía",
+    "zh": "美食；烹饪文化",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "饮食",
+    "ex_es": "La gastronomía española es famosa en todo el mundo.",
+    "ex_zh": "西班牙美食在全世界都很有名。"
+  },
+  {
+    "id": "a0072",
+    "es": "la sobremesa",
+    "zh": "饭后闲谈",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "饮食",
+    "ex_es": "La sobremesa del domingo dura hasta la tarde.",
+    "ex_zh": "星期天的饭后闲谈一直持续到下午。"
+  },
+  {
+    "id": "a0073",
+    "es": "la ración",
+    "zh": "一份；一份菜",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "饮食",
+    "ex_es": "Pedimos una ración de calamares para compartir.",
+    "ex_zh": "我们点了一份鱿鱼来分享。"
+  },
+  {
+    "id": "a0074",
+    "es": "el comensal",
+    "zh": "食客；用餐者",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "饮食",
+    "ex_es": "Cada comensal puede elegir dos platos.",
+    "ex_zh": "每位用餐者可以点两道菜。"
+  },
+  {
+    "id": "a0075",
+    "es": "el viaje",
+    "zh": "旅行；旅程",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "旅行",
+    "ex_es": "Nuestro viaje a Barcelona fue inolvidable.",
+    "ex_zh": "我们的巴塞罗那之行令人难忘。"
+  },
+  {
+    "id": "a0076",
+    "es": "el tren",
+    "zh": "火车",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "旅行",
+    "ex_es": "El tren sale de la estación a las ocho.",
+    "ex_zh": "火车八点从车站出发。"
+  },
+  {
+    "id": "a0077",
+    "es": "el avión",
+    "zh": "飞机",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "旅行",
+    "ex_es": "El avión llega a Madrid por la tarde.",
+    "ex_zh": "飞机下午抵达马德里。"
+  },
+  {
+    "id": "a0078",
+    "es": "el autobús",
+    "zh": "公共汽车；大巴",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "旅行",
+    "ex_es": "Voy al centro en autobús todos los días.",
+    "ex_zh": "我每天坐公共汽车去市中心。"
+  },
+  {
+    "id": "a0079",
+    "es": "el coche",
+    "zh": "汽车",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "旅行",
+    "ex_es": "Mi padre compró un coche rojo el mes pasado.",
+    "ex_zh": "我父亲上个月买了一辆红色汽车。"
+  },
+  {
+    "id": "a0080",
+    "es": "la estación",
+    "zh": "车站",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "旅行",
+    "ex_es": "Te espero en la estación de tren a las seis.",
+    "ex_zh": "我六点在火车站等你。"
+  },
+  {
+    "id": "a0081",
+    "es": "el billete",
+    "zh": "票；车票",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "旅行",
+    "ex_es": "Compré dos billetes de tren para el viernes.",
+    "ex_zh": "我买了两张星期五的火车票。"
+  },
+  {
+    "id": "a0082",
+    "es": "el hotel",
+    "zh": "酒店；旅馆",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "旅行",
+    "ex_es": "El hotel está cerca de la playa y del centro.",
+    "ex_zh": "酒店靠近海滩和市中心。"
+  },
+  {
+    "id": "a0083",
+    "es": "la playa",
+    "zh": "海滩",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "旅行",
+    "ex_es": "En verano vamos a la playa con los niños.",
+    "ex_zh": "夏天我们带孩子们去海滩。"
+  },
+  {
+    "id": "a0084",
+    "es": "la montaña",
+    "zh": "山；山区",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "旅行",
+    "ex_es": "La montaña está cubierta de nieve blanca.",
+    "ex_zh": "山上覆盖着白雪。"
+  },
+  {
+    "id": "a0085",
+    "es": "el mapa",
+    "zh": "地图",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "旅行",
+    "ex_es": "Mira el mapa para encontrar el camino correcto.",
+    "ex_zh": "看看地图找到正确的路。"
+  },
+  {
+    "id": "a0086",
+    "es": "la maleta",
+    "zh": "行李箱",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "旅行",
+    "ex_es": "Mi maleta pesa demasiado para el avión.",
+    "ex_zh": "我的行李箱对飞机来说太重了。"
+  },
+  {
+    "id": "a0087",
+    "es": "la calle",
+    "zh": "街道",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "旅行",
+    "ex_es": "Vivo en una calle pequeña y tranquila.",
+    "ex_zh": "我住在一条安静的小街上。"
+  },
+  {
+    "id": "a0088",
+    "es": "el pasaporte",
+    "zh": "护照",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "旅行",
+    "ex_es": "Necesitas el pasaporte para salir del país.",
+    "ex_zh": "出国需要护照。"
+  },
+  {
+    "id": "a0089",
+    "es": "el centro",
+    "zh": "中心；市中心",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "旅行",
+    "ex_es": "El centro de la ciudad está lleno de turistas.",
+    "ex_zh": "市中心挤满了游客。"
+  },
+  {
+    "id": "a0090",
+    "es": "el museo",
+    "zh": "博物馆",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "旅行",
+    "ex_es": "El museo abre a las diez de la mañana.",
+    "ex_zh": "博物馆上午十点开门。"
+  },
+  {
+    "id": "a0091",
+    "es": "el restaurante",
+    "zh": "餐馆；餐厅",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "旅行",
+    "ex_es": "Cenamos en un restaurante italiano del barrio.",
+    "ex_zh": "我们在街区的一家意大利餐馆吃晚饭。"
+  },
+  {
+    "id": "a0092",
+    "es": "el turista",
+    "zh": "游客；旅游者",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "旅行",
+    "ex_es": "Cada turista quiere una foto del monumento.",
+    "ex_zh": "每个游客都想拍一张纪念碑的照片。"
+  },
+  {
+    "id": "a0093",
+    "es": "la excursión",
+    "zh": "远足；短途旅行",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "旅行",
+    "ex_es": "Hicimos una excursión a la montaña el sábado.",
+    "ex_zh": "星期六我们去山里远足。"
+  },
+  {
+    "id": "a0094",
+    "es": "el paisaje",
+    "zh": "风景；景色",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "旅行",
+    "ex_es": "El paisaje desde la ventana es impresionante.",
+    "ex_zh": "窗外的风景令人震撼。"
+  },
+  {
+    "id": "a0095",
+    "es": "el camino",
+    "zh": "路；道路",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "旅行",
+    "ex_es": "Este camino lleva directamente al pueblo.",
+    "ex_zh": "这条路直接通向村子。"
+  },
+  {
+    "id": "a0096",
+    "es": "el puerto",
+    "zh": "港口；码头",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "旅行",
+    "ex_es": "Los barcos llegan al puerto por la noche.",
+    "ex_zh": "船夜里到达港口。"
+  },
+  {
+    "id": "a0097",
+    "es": "la frontera",
+    "zh": "边境；国界",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "旅行",
+    "ex_es": "Cruzamos la frontera francesa sin problemas.",
+    "ex_zh": "我们顺利越过了法国边境。"
+  },
+  {
+    "id": "a0098",
+    "es": "el vuelo",
+    "zh": "航班；飞行",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "旅行",
+    "ex_es": "Nuestro vuelo se retrasó dos horas.",
+    "ex_zh": "我们的航班延误了两小时。"
+  },
+  {
+    "id": "a0099",
+    "es": "la aduana",
+    "zh": "海关",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "旅行",
+    "ex_es": "En la aduana revisaron todas las maletas.",
+    "ex_zh": "海关检查了所有行李。"
+  },
+  {
+    "id": "a0100",
+    "es": "el alojamiento",
+    "zh": "住宿",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "旅行",
+    "ex_es": "El alojamiento incluye desayuno y wifi gratis.",
+    "ex_zh": "住宿包含早餐和免费无线网络。"
+  },
+  {
+    "id": "a0101",
+    "es": "el itinerario",
+    "zh": "行程；路线",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "旅行",
+    "ex_es": "El guía nos explicó el itinerario del viaje.",
+    "ex_zh": "导游给我们讲解了旅行行程。"
+  },
+  {
+    "id": "a0102",
+    "es": "el alquiler",
+    "zh": "租金；租用",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "旅行",
+    "ex_es": "El alquiler del apartamento incluye la limpieza.",
+    "ex_zh": "公寓的租金包含清洁费。"
+  },
+  {
+    "id": "a0103",
+    "es": "la temporada",
+    "zh": "季节；时期",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "旅行",
+    "ex_es": "En temporada alta los hoteles son más caros.",
+    "ex_zh": "旺季酒店更贵。"
+  },
+  {
+    "id": "a0104",
+    "es": "el equipaje",
+    "zh": "行李",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "旅行",
+    "ex_es": "Perdí mi equipaje en el aeropuerto de Roma.",
+    "ex_zh": "我在罗马机场丢了行李。"
+  },
+  {
+    "id": "a0105",
+    "es": "la llegada",
+    "zh": "到达；抵达",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "旅行",
+    "ex_es": "La llegada del tren está prevista para las cinco.",
+    "ex_zh": "火车预计五点到达。"
+  },
+  {
+    "id": "a0106",
+    "es": "la salida",
+    "zh": "出发；出口",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "旅行",
+    "ex_es": "La salida del autobús es a las siete.",
+    "ex_zh": "大巴七点出发。"
+  },
+  {
+    "id": "a0107",
+    "es": "el retraso",
+    "zh": "延误；延迟",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "旅行",
+    "ex_es": "El retraso del vuelo nos obligó a esperar.",
+    "ex_zh": "航班延误迫使我们等待。"
+  },
+  {
+    "id": "a0108",
+    "es": "la ruta",
+    "zh": "路线；线路",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "旅行",
+    "ex_es": "Seguimos la ruta marcada en el mapa.",
+    "ex_zh": "我们沿着地图上标出的路线走。"
+  },
+  {
+    "id": "a0109",
+    "es": "el día",
+    "zh": "天；白天",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "时间",
+    "ex_es": "Hoy es un día perfecto para pasear.",
+    "ex_zh": "今天是散步的完美日子。"
+  },
+  {
+    "id": "a0110",
+    "es": "la semana",
+    "zh": "星期；周",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "时间",
+    "ex_es": "La semana que viene tengo vacaciones.",
+    "ex_zh": "下周我休假。"
+  },
+  {
+    "id": "a0111",
+    "es": "el mes",
+    "zh": "月；月份",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "时间",
+    "ex_es": "Este mes trabajo mucho en la oficina.",
+    "ex_zh": "这个月我在办公室工作很多。"
+  },
+  {
+    "id": "a0112",
+    "es": "el año",
+    "zh": "年；年度",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "时间",
+    "ex_es": "El año pasado viajamos a México.",
+    "ex_zh": "去年我们去了墨西哥。"
+  },
+  {
+    "id": "a0113",
+    "es": "la hora",
+    "zh": "小时；钟点",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "时间",
+    "ex_es": "¿Qué hora es ahora, por favor?",
+    "ex_zh": "请问现在几点了？"
+  },
+  {
+    "id": "a0114",
+    "es": "la mañana",
+    "zh": "早晨；上午",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "时间",
+    "ex_es": "Por la mañana tomo café y leo el periódico.",
+    "ex_zh": "早上我喝咖啡看报纸。"
+  },
+  {
+    "id": "a0115",
+    "es": "la tarde",
+    "zh": "下午",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "时间",
+    "ex_es": "Por la tarde vamos al parque con los niños.",
+    "ex_zh": "下午我们带孩子们去公园。"
+  },
+  {
+    "id": "a0116",
+    "es": "la noche",
+    "zh": "夜晚；晚上",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "时间",
+    "ex_es": "La noche de verano es cálida y tranquila.",
+    "ex_zh": "夏夜温暖而宁静。"
+  },
+  {
+    "id": "a0117",
+    "es": "hoy",
+    "zh": "今天",
+    "pos": "adv.",
+    "level": "A1",
+    "theme": "时间",
+    "ex_es": "Hoy no tengo ganas de cocinar.",
+    "ex_zh": "今天我不想做饭。"
+  },
+  {
+    "id": "a0118",
+    "es": "ayer",
+    "zh": "昨天",
+    "pos": "adv.",
+    "level": "A1",
+    "theme": "时间",
+    "ex_es": "Ayer vi a tu hermana en el supermercado.",
+    "ex_zh": "昨天我在超市看见你姐姐了。"
+  },
+  {
+    "id": "a0119",
+    "es": "ahora",
+    "zh": "现在；此刻",
+    "pos": "adv.",
+    "level": "A1",
+    "theme": "时间",
+    "ex_es": "Ahora estoy ocupado, hablamos más tarde.",
+    "ex_zh": "现在我很忙，我们晚点再聊。"
+  },
+  {
+    "id": "a0120",
+    "es": "siempre",
+    "zh": "总是；一直",
+    "pos": "adv.",
+    "level": "A1",
+    "theme": "时间",
+    "ex_es": "Siempre desayuno fruta antes de salir de casa.",
+    "ex_zh": "我出门前总是先吃水果。"
+  },
+  {
+    "id": "a0121",
+    "es": "nunca",
+    "zh": "从不；从来不",
+    "pos": "adv.",
+    "level": "A1",
+    "theme": "时间",
+    "ex_es": "Mi hermano nunca llega tarde a clase.",
+    "ex_zh": "我哥哥上课从不迟到。"
+  },
+  {
+    "id": "a0122",
+    "es": "el minuto",
+    "zh": "分钟",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "时间",
+    "ex_es": "Espérame cinco minutos, ya casi estoy listo.",
+    "ex_zh": "等我五分钟，我快准备好了。"
+  },
+  {
+    "id": "a0123",
+    "es": "el lunes",
+    "zh": "星期一",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "时间",
+    "ex_es": "El lunes tengo una reunión muy importante.",
+    "ex_zh": "星期一我有一个很重要的会议。"
+  },
+  {
+    "id": "a0124",
+    "es": "el sábado",
+    "zh": "星期六",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "时间",
+    "ex_es": "El sábado por la noche salimos con amigos.",
+    "ex_zh": "星期六晚上我们和朋友出去。"
+  },
+  {
+    "id": "a0125",
+    "es": "temprano",
+    "zh": "早；及早",
+    "pos": "adv.",
+    "level": "A2",
+    "theme": "时间",
+    "ex_es": "Me levanto temprano para correr un poco.",
+    "ex_zh": "我早起跑一会儿步。"
+  },
+  {
+    "id": "a0126",
+    "es": "pronto",
+    "zh": "很快；不久",
+    "pos": "adv.",
+    "level": "A2",
+    "theme": "时间",
+    "ex_es": "Terminaremos pronto si trabajamos todos juntos.",
+    "ex_zh": "如果大家一起做，很快就会完成。"
+  },
+  {
+    "id": "a0127",
+    "es": "el siglo",
+    "zh": "世纪",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "时间",
+    "ex_es": "Este edificio tiene más de un siglo.",
+    "ex_zh": "这座建筑已有一百多年历史。"
+  },
+  {
+    "id": "a0128",
+    "es": "la fecha",
+    "zh": "日期",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "时间",
+    "ex_es": "¿Cuál es la fecha de la excursión?",
+    "ex_zh": "远足的日期是哪天？"
+  },
+  {
+    "id": "a0129",
+    "es": "el verano",
+    "zh": "夏天；夏季",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "时间",
+    "ex_es": "En verano hace mucho calor en Sevilla.",
+    "ex_zh": "塞维利亚夏天很热。"
+  },
+  {
+    "id": "a0130",
+    "es": "el invierno",
+    "zh": "冬天；冬季",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "时间",
+    "ex_es": "El invierno aquí es corto y suave.",
+    "ex_zh": "这里的冬天短暂而温和。"
+  },
+  {
+    "id": "a0131",
+    "es": "la primavera",
+    "zh": "春天；春季",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "时间",
+    "ex_es": "En primavera florecen los árboles del parque.",
+    "ex_zh": "春天公园的树开花了。"
+  },
+  {
+    "id": "a0132",
+    "es": "el otoño",
+    "zh": "秋天；秋季",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "时间",
+    "ex_es": "En otoño las hojas caen de los árboles.",
+    "ex_zh": "秋天树叶从树上落下。"
+  },
+  {
+    "id": "a0133",
+    "es": "la duración",
+    "zh": "持续时间；时长",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "时间",
+    "ex_es": "La duración de la película es de dos horas.",
+    "ex_zh": "这部电影时长两小时。"
+  },
+  {
+    "id": "a0134",
+    "es": "el plazo",
+    "zh": "期限；截止时间",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "时间",
+    "ex_es": "El plazo para entregar el trabajo termina el viernes.",
+    "ex_zh": "交作业的期限到星期五。"
+  },
+  {
+    "id": "a0135",
+    "es": "la época",
+    "zh": "时期；时代",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "时间",
+    "ex_es": "En aquella época no había teléfonos móviles.",
+    "ex_zh": "那个年代还没有手机。"
+  },
+  {
+    "id": "a0136",
+    "es": "la puntualidad",
+    "zh": "准时；守时",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "时间",
+    "ex_es": "La puntualidad de los trenes alemanes es famosa.",
+    "ex_zh": "德国火车的准时很有名。"
+  },
+  {
+    "id": "a0137",
+    "es": "la actualidad",
+    "zh": "当下；时事",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "时间",
+    "ex_es": "Ese tema está muy presente en la actualidad.",
+    "ex_zh": "这个话题在当下非常受关注。"
+  },
+  {
+    "id": "a0138",
+    "es": "el aniversario",
+    "zh": "周年纪念；纪念日",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "时间",
+    "ex_es": "Celebramos nuestro aniversario en un restaurante pequeño.",
+    "ex_zh": "我们在一家小餐馆庆祝我们的纪念日。"
+  },
+  {
+    "id": "a0139",
+    "es": "la madrugada",
+    "zh": "凌晨；深夜",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "时间",
+    "ex_es": "Volvimos a casa de madrugada después de la fiesta.",
+    "ex_zh": "派对结束后我们凌晨才回家。"
+  },
+  {
+    "id": "a0140",
+    "es": "el amanecer",
+    "zh": "黎明；日出",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "时间",
+    "ex_es": "El amanecer en la playa es precioso.",
+    "ex_zh": "海滩上的日出很美。"
+  },
+  {
+    "id": "a0141",
+    "es": "la cabeza",
+    "zh": "头；头部",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "身体",
+    "ex_es": "Me duele la cabeza desde esta mañana.",
+    "ex_zh": "从今天早上起我头疼。"
+  },
+  {
+    "id": "a0142",
+    "es": "el ojo",
+    "zh": "眼睛",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "身体",
+    "ex_es": "Tiene los ojos azules como su madre.",
+    "ex_zh": "他的眼睛像他妈妈一样是蓝色的。"
+  },
+  {
+    "id": "a0143",
+    "es": "la mano",
+    "zh": "手",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "身体",
+    "ex_es": "Lávate bien las manos antes de comer, por favor.",
+    "ex_zh": "吃饭前请好好洗手。"
+  },
+  {
+    "id": "a0144",
+    "es": "el pie",
+    "zh": "脚；足",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "身体",
+    "ex_es": "Me duelen los pies después de caminar tanto.",
+    "ex_zh": "走了这么多路我的脚疼。"
+  },
+  {
+    "id": "a0145",
+    "es": "la boca",
+    "zh": "嘴；口",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "身体",
+    "ex_es": "El médico me miró la boca y la garganta.",
+    "ex_zh": "医生看了看我的嘴和喉咙。"
+  },
+  {
+    "id": "a0146",
+    "es": "el pelo",
+    "zh": "头发；毛发",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "身体",
+    "ex_es": "Mi hermana tiene el pelo largo y rizado.",
+    "ex_zh": "我姐姐留着长长的卷发。"
+  },
+  {
+    "id": "a0147",
+    "es": "el corazón",
+    "zh": "心脏；心",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "身体",
+    "ex_es": "El corazón late más rápido cuando corro.",
+    "ex_zh": "我跑步时心跳更快。"
+  },
+  {
+    "id": "a0148",
+    "es": "la salud",
+    "zh": "健康",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "身体",
+    "ex_es": "El ejercicio es bueno para la salud.",
+    "ex_zh": "运动对健康有益。"
+  },
+  {
+    "id": "a0149",
+    "es": "el médico",
+    "zh": "医生",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "身体",
+    "ex_es": "El médico me recomienda descansar unos días.",
+    "ex_zh": "医生建议我休息几天。"
+  },
+  {
+    "id": "a0150",
+    "es": "la farmacia",
+    "zh": "药店；药房",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "身体",
+    "ex_es": "La farmacia está enfrente del supermercado.",
+    "ex_zh": "药店在超市对面。"
+  },
+  {
+    "id": "a0151",
+    "es": "enfermo",
+    "zh": "生病的；患病的",
+    "pos": "adj.",
+    "level": "A1",
+    "theme": "身体",
+    "ex_es": "Mi hijo está enfermo y no va al colegio.",
+    "ex_zh": "我儿子生病了，不去上学。"
+  },
+  {
+    "id": "a0152",
+    "es": "cansado",
+    "zh": "累的；疲倦的",
+    "pos": "adj.",
+    "level": "A1",
+    "theme": "身体",
+    "ex_es": "Estoy muy cansado después del trabajo.",
+    "ex_zh": "下班后我很累。"
+  },
+  {
+    "id": "a0153",
+    "es": "el brazo",
+    "zh": "胳膊；手臂",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "身体",
+    "ex_es": "Me rompí el brazo jugando al fútbol.",
+    "ex_zh": "我踢足球时摔断了胳膊。"
+  },
+  {
+    "id": "a0154",
+    "es": "la pierna",
+    "zh": "腿",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "身体",
+    "ex_es": "Siento un dolor fuerte en la pierna derecha.",
+    "ex_zh": "我感到右腿疼得厉害。"
+  },
+  {
+    "id": "a0155",
+    "es": "la espalda",
+    "zh": "背；背部",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "身体",
+    "ex_es": "Me duele la espalda de llevar tanto peso.",
+    "ex_zh": "背这么重的东西让我背疼。"
+  },
+  {
+    "id": "a0156",
+    "es": "el dedo",
+    "zh": "手指；脚趾",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "身体",
+    "ex_es": "Me corté el dedo con un cuchillo.",
+    "ex_zh": "我用刀切到了手指。"
+  },
+  {
+    "id": "a0157",
+    "es": "la oreja",
+    "zh": "耳朵",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "身体",
+    "ex_es": "El niño se tapa las orejas por el ruido.",
+    "ex_zh": "孩子因为噪音捂住耳朵。"
+  },
+  {
+    "id": "a0158",
+    "es": "la nariz",
+    "zh": "鼻子",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "身体",
+    "ex_es": "Tengo la nariz tapada por el resfriado.",
+    "ex_zh": "我感冒了，鼻子不通气。"
+  },
+  {
+    "id": "a0159",
+    "es": "el diente",
+    "zh": "牙齿",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "身体",
+    "ex_es": "Me duele un diente desde hace dos días.",
+    "ex_zh": "我牙疼两天了。"
+  },
+  {
+    "id": "a0160",
+    "es": "la piel",
+    "zh": "皮肤",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "身体",
+    "ex_es": "La piel del bebé es muy suave.",
+    "ex_zh": "婴儿的皮肤非常柔软。"
+  },
+  {
+    "id": "a0161",
+    "es": "la sangre",
+    "zh": "血；血液",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "身体",
+    "ex_es": "El análisis de sangre salió perfecto.",
+    "ex_zh": "血液检查结果很好。"
+  },
+  {
+    "id": "a0162",
+    "es": "el dolor",
+    "zh": "疼痛；痛苦",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "身体",
+    "ex_es": "El dolor de espalda no me deja dormir.",
+    "ex_zh": "背痛让我睡不着。"
+  },
+  {
+    "id": "a0163",
+    "es": "la fiebre",
+    "zh": "发烧；发热",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "身体",
+    "ex_es": "El niño tiene fiebre y tos.",
+    "ex_zh": "孩子发烧咳嗽。"
+  },
+  {
+    "id": "a0164",
+    "es": "la herida",
+    "zh": "伤口",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "身体",
+    "ex_es": "Limpia bien la herida con agua y jabón.",
+    "ex_zh": "用肥皂和水好好清洗伤口。"
+  },
+  {
+    "id": "a0165",
+    "es": "la enfermedad",
+    "zh": "疾病；病症",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "身体",
+    "ex_es": "La enfermedad duró una semana completa.",
+    "ex_zh": "这场病持续了整整一周。"
+  },
+  {
+    "id": "a0166",
+    "es": "la respiración",
+    "zh": "呼吸",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "身体",
+    "ex_es": "Respira hondo y controla la respiración lentamente.",
+    "ex_zh": "深吸气，慢慢控制呼吸。"
+  },
+  {
+    "id": "a0167",
+    "es": "el músculo",
+    "zh": "肌肉",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "身体",
+    "ex_es": "Después del ejercicio me duele cada músculo.",
+    "ex_zh": "运动后我每块肌肉都疼。"
+  },
+  {
+    "id": "a0168",
+    "es": "el hueso",
+    "zh": "骨头；骨骼",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "身体",
+    "ex_es": "El hueso de la rodilla se curó con reposo.",
+    "ex_zh": "膝盖的骨头通过休息痊愈了。"
+  },
+  {
+    "id": "a0169",
+    "es": "la cicatriz",
+    "zh": "疤；伤疤",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "身体",
+    "ex_es": "Le quedó una cicatriz pequeña en la mano.",
+    "ex_zh": "他手上留下了一道小疤痕。"
+  },
+  {
+    "id": "a0170",
+    "es": "el síntoma",
+    "zh": "症状",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "身体",
+    "ex_es": "La fiebre es el primer síntoma de la gripe.",
+    "ex_zh": "发烧是流感的首个症状。"
+  },
+  {
+    "id": "a0171",
+    "es": "el tratamiento",
+    "zh": "治疗；疗法",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "身体",
+    "ex_es": "El tratamiento durará tres semanas más o menos.",
+    "ex_zh": "治疗大约还要持续三周。"
+  },
+  {
+    "id": "a0172",
+    "es": "la postura",
+    "zh": "姿势；姿态",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "身体",
+    "ex_es": "Mantén una postura correcta delante del ordenador.",
+    "ex_zh": "在电脑前保持正确的姿势。"
+  },
+  {
+    "id": "a0173",
+    "es": "el cansancio",
+    "zh": "疲劳；疲倦",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "身体",
+    "ex_es": "El cansancio se nota en su cara.",
+    "ex_zh": "从她脸上能看出疲惫。"
+  },
+  {
+    "id": "a0174",
+    "es": "el dinero",
+    "zh": "钱；金钱",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "购物",
+    "ex_es": "No tengo dinero suficiente para comprar el móvil.",
+    "ex_zh": "我没有足够的钱买那部手机。"
+  },
+  {
+    "id": "a0175",
+    "es": "la tienda",
+    "zh": "商店；店铺",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "购物",
+    "ex_es": "La tienda de ropa cierra a las nueve.",
+    "ex_zh": "服装店九点关门。"
+  },
+  {
+    "id": "a0176",
+    "es": "el mercado",
+    "zh": "市场；集市",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "购物",
+    "ex_es": "Compramos fruta y verdura en el mercado.",
+    "ex_zh": "我们在市场买水果和蔬菜。"
+  },
+  {
+    "id": "a0177",
+    "es": "el precio",
+    "zh": "价格；价钱",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "购物",
+    "ex_es": "El precio de este vestido es razonable.",
+    "ex_zh": "这条连衣裙的价格很合理。"
+  },
+  {
+    "id": "a0178",
+    "es": "la camisa",
+    "zh": "衬衫",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "购物",
+    "ex_es": "Esta camisa azul es para mi padre.",
+    "ex_zh": "这件蓝衬衫是给我父亲的。"
+  },
+  {
+    "id": "a0179",
+    "es": "el zapato",
+    "zh": "鞋；鞋子",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "购物",
+    "ex_es": "Estos zapatos negros son muy cómodos.",
+    "ex_zh": "这双黑鞋非常舒服。"
+  },
+  {
+    "id": "a0180",
+    "es": "el regalo",
+    "zh": "礼物；礼品",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "购物",
+    "ex_es": "Compré un regalo para mi madre.",
+    "ex_zh": "我给妈妈买了礼物。"
+  },
+  {
+    "id": "a0181",
+    "es": "comprar",
+    "zh": "买；购买",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "购物",
+    "ex_es": "Voy a comprar pan y leche ahora.",
+    "ex_zh": "我现在去买面包和牛奶。"
+  },
+  {
+    "id": "a0182",
+    "es": "pagar",
+    "zh": "付款；支付",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "购物",
+    "ex_es": "¿Puedo pagar con tarjeta de crédito?",
+    "ex_zh": "我可以用信用卡付款吗？"
+  },
+  {
+    "id": "a0183",
+    "es": "caro",
+    "zh": "贵的；昂贵的",
+    "pos": "adj.",
+    "level": "A1",
+    "theme": "购物",
+    "ex_es": "Este restaurante es demasiado caro para mí.",
+    "ex_zh": "这家餐馆对我来说太贵了。"
+  },
+  {
+    "id": "a0184",
+    "es": "barato",
+    "zh": "便宜的；廉价的",
+    "pos": "adj.",
+    "level": "A1",
+    "theme": "购物",
+    "ex_es": "El menú del día es barato y abundante.",
+    "ex_zh": "每日套餐便宜又量足。"
+  },
+  {
+    "id": "a0185",
+    "es": "el supermercado",
+    "zh": "超市",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "购物",
+    "ex_es": "El supermercado está abierto hasta las diez.",
+    "ex_zh": "超市开到十点。"
+  },
+  {
+    "id": "a0186",
+    "es": "la tarjeta",
+    "zh": "卡；银行卡",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "购物",
+    "ex_es": "Pago siempre con tarjeta en las tiendas.",
+    "ex_zh": "我在商店总是刷卡。"
+  },
+  {
+    "id": "a0187",
+    "es": "el cliente",
+    "zh": "顾客；客户",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "购物",
+    "ex_es": "El cliente preguntó por el precio de la chaqueta.",
+    "ex_zh": "顾客询问了外套的价格。"
+  },
+  {
+    "id": "a0188",
+    "es": "el vendedor",
+    "zh": "售货员；卖家",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "购物",
+    "ex_es": "El vendedor nos mostró varios modelos de zapatos.",
+    "ex_zh": "售货员给我们看了好几种款式的鞋。"
+  },
+  {
+    "id": "a0189",
+    "es": "la talla",
+    "zh": "尺码；尺寸",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "购物",
+    "ex_es": "No tienen mi talla en este modelo.",
+    "ex_zh": "这款没有我的尺码。"
+  },
+  {
+    "id": "a0190",
+    "es": "el probador",
+    "zh": "试衣间",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "购物",
+    "ex_es": "Hay una cola larga delante del probador.",
+    "ex_zh": "试衣间前排着长队。"
+  },
+  {
+    "id": "a0191",
+    "es": "la rebaja",
+    "zh": "打折；减价",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "购物",
+    "ex_es": "Compré estas botas en rebaja la semana pasada.",
+    "ex_zh": "我上周打折时买了这双靴子。"
+  },
+  {
+    "id": "a0192",
+    "es": "el recibo",
+    "zh": "收据",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "购物",
+    "ex_es": "Guarda el recibo por si quieres cambiarlo.",
+    "ex_zh": "收好收据，万一你想换货。"
+  },
+  {
+    "id": "a0193",
+    "es": "el escaparate",
+    "zh": "橱窗；陈列窗",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "购物",
+    "ex_es": "Me paré a mirar el escaparate de la joyería.",
+    "ex_zh": "我停下来看珠宝店的橱窗。"
+  },
+  {
+    "id": "a0194",
+    "es": "la bolsa",
+    "zh": "袋子；包",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "购物",
+    "ex_es": "¿Me da una bolsa de papel, por favor?",
+    "ex_zh": "请给我一个纸袋好吗？"
+  },
+  {
+    "id": "a0195",
+    "es": "el cambio",
+    "zh": "找零；交换",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "购物",
+    "ex_es": "Puede quedarse con el cambio, gracias.",
+    "ex_zh": "零钱您留着吧，谢谢。"
+  },
+  {
+    "id": "a0196",
+    "es": "el descuento",
+    "zh": "折扣；优惠",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "购物",
+    "ex_es": "Los estudiantes tienen un descuento del diez por ciento.",
+    "ex_zh": "学生有百分之十的折扣。"
+  },
+  {
+    "id": "a0197",
+    "es": "la garantía",
+    "zh": "保修；保证",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "购物",
+    "ex_es": "La garantía del móvil cubre dos años.",
+    "ex_zh": "手机的保修期是两年。"
+  },
+  {
+    "id": "a0198",
+    "es": "la factura",
+    "zh": "发票；账单",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "购物",
+    "ex_es": "Necesito la factura para justificar el gasto.",
+    "ex_zh": "我需要发票来报销这笔费用。"
+  },
+  {
+    "id": "a0199",
+    "es": "el presupuesto",
+    "zh": "预算",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "购物",
+    "ex_es": "Nuestro presupuesto para el mes es limitado.",
+    "ex_zh": "我们这个月的预算有限。"
+  },
+  {
+    "id": "a0200",
+    "es": "la devolución",
+    "zh": "退货；退款",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "购物",
+    "ex_es": "La devolución es gratuita dentro de treinta días.",
+    "ex_zh": "三十天内退货免费。"
+  },
+  {
+    "id": "a0201",
+    "es": "el comercio",
+    "zh": "商业；贸易",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "购物",
+    "ex_es": "El comercio del barrio cierra los domingos.",
+    "ex_zh": "这个街区的商铺星期天关门。"
+  },
+  {
+    "id": "a0202",
+    "es": "la oferta",
+    "zh": "优惠；促销",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "购物",
+    "ex_es": "Esta oferta solo está disponible hasta el domingo.",
+    "ex_zh": "这个优惠只在星期天之前有效。"
+  },
+  {
+    "id": "a0203",
+    "es": "el consumo",
+    "zh": "消费；消耗",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "购物",
+    "ex_es": "El consumo de productos locales ha aumentado.",
+    "ex_zh": "本地产品的消费有所增加。"
+  },
+  {
+    "id": "a0204",
+    "es": "la publicidad",
+    "zh": "广告；宣传",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "购物",
+    "ex_es": "La publicidad de ese coche aparece en todas partes.",
+    "ex_zh": "那款汽车的广告到处都能看到。"
+  },
+  {
+    "id": "a0205",
+    "es": "la cocina",
+    "zh": "厨房",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "居家",
+    "ex_es": "Mi madre está en la cocina preparando la cena.",
+    "ex_zh": "我妈妈在厨房准备晚饭。"
+  },
+  {
+    "id": "a0206",
+    "es": "el baño",
+    "zh": "浴室；卫生间",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "居家",
+    "ex_es": "¿Dónde está el baño, por favor?",
+    "ex_zh": "请问洗手间在哪里？"
+  },
+  {
+    "id": "a0207",
+    "es": "la cama",
+    "zh": "床",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "居家",
+    "ex_es": "El niño duerme en una cama pequeña.",
+    "ex_zh": "孩子睡在一张小床上。"
+  },
+  {
+    "id": "a0208",
+    "es": "la mesa",
+    "zh": "桌子；餐桌",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "居家",
+    "ex_es": "Pon los platos en la mesa, por favor.",
+    "ex_zh": "请把盘子放在桌上。"
+  },
+  {
+    "id": "a0209",
+    "es": "la puerta",
+    "zh": "门",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "居家",
+    "ex_es": "Cierra la puerta cuando salgas de casa.",
+    "ex_zh": "出门时把门关上。"
+  },
+  {
+    "id": "a0210",
+    "es": "la ventana",
+    "zh": "窗户；窗",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "居家",
+    "ex_es": "Abre la ventana, aquí hace mucho calor.",
+    "ex_zh": "打开窗户，这里太热了。"
+  },
+  {
+    "id": "a0211",
+    "es": "la silla",
+    "zh": "椅子",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "居家",
+    "ex_es": "Mi abuelo se sienta siempre en la misma silla.",
+    "ex_zh": "我祖父总是坐在同一把椅子上。"
+  },
+  {
+    "id": "a0212",
+    "es": "la llave",
+    "zh": "钥匙",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "居家",
+    "ex_es": "No encuentro mi llave de casa esta mañana.",
+    "ex_zh": "今天早上我找不到家里的钥匙。"
+  },
+  {
+    "id": "a0213",
+    "es": "el jardín",
+    "zh": "花园；院子",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "居家",
+    "ex_es": "El jardín de esta casa es grande y verde.",
+    "ex_zh": "这栋房子的花园又大又绿。"
+  },
+  {
+    "id": "a0214",
+    "es": "limpio",
+    "zh": "干净的；整洁的",
+    "pos": "adj.",
+    "level": "A1",
+    "theme": "居家",
+    "ex_es": "El salón está limpio y ordenado esta mañana.",
+    "ex_zh": "今天早上客厅又干净又整齐。"
+  },
+  {
+    "id": "a0215",
+    "es": "la habitación",
+    "zh": "房间；卧室",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "居家",
+    "ex_es": "La habitación del hotel tiene una vista preciosa.",
+    "ex_zh": "酒店房间的景色很美。"
+  },
+  {
+    "id": "a0216",
+    "es": "el salón",
+    "zh": "客厅；起居室",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "居家",
+    "ex_es": "Vemos la televisión juntos en el salón.",
+    "ex_zh": "我们一起在客厅看电视。"
+  },
+  {
+    "id": "a0217",
+    "es": "el suelo",
+    "zh": "地板；地面",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "居家",
+    "ex_es": "El suelo de la cocina está siempre brillante.",
+    "ex_zh": "厨房的地板总是亮亮的。"
+  },
+  {
+    "id": "a0218",
+    "es": "el techo",
+    "zh": "天花板；屋顶",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "居家",
+    "ex_es": "Una mancha de agua apareció en el techo.",
+    "ex_zh": "天花板上出现了一块水渍。"
+  },
+  {
+    "id": "a0219",
+    "es": "la pared",
+    "zh": "墙；墙壁",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "居家",
+    "ex_es": "Colgamos un cuadro grande en la pared.",
+    "ex_zh": "我们在墙上挂了一幅大画。"
+  },
+  {
+    "id": "a0220",
+    "es": "el espejo",
+    "zh": "镜子",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "居家",
+    "ex_es": "Se miró en el espejo antes de salir.",
+    "ex_zh": "她出门前照了照镜子。"
+  },
+  {
+    "id": "a0221",
+    "es": "el armario",
+    "zh": "衣柜；橱柜",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "居家",
+    "ex_es": "Guarda la ropa limpia en el armario.",
+    "ex_zh": "把干净的衣服放进衣柜。"
+  },
+  {
+    "id": "a0222",
+    "es": "la nevera",
+    "zh": "冰箱",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "居家",
+    "ex_es": "No queda leche en la nevera.",
+    "ex_zh": "冰箱里没有牛奶了。"
+  },
+  {
+    "id": "a0223",
+    "es": "la lavadora",
+    "zh": "洗衣机",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "居家",
+    "ex_es": "La lavadora está llena de ropa sucia.",
+    "ex_zh": "洗衣机里装满了脏衣服。"
+  },
+  {
+    "id": "a0224",
+    "es": "el sofá",
+    "zh": "沙发",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "居家",
+    "ex_es": "El gato duerme en el sofá todo el día.",
+    "ex_zh": "猫整天睡在沙发上。"
+  },
+  {
+    "id": "a0225",
+    "es": "la lámpara",
+    "zh": "灯；台灯",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "居家",
+    "ex_es": "Enciende la lámpara, aquí no se ve nada.",
+    "ex_zh": "打开灯，这里什么都看不见。"
+  },
+  {
+    "id": "a0226",
+    "es": "la escalera",
+    "zh": "楼梯；梯子",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "居家",
+    "ex_es": "Sube la escalera con cuidado, está mojada.",
+    "ex_zh": "小心上楼梯，楼梯是湿的。"
+  },
+  {
+    "id": "a0227",
+    "es": "el ruido",
+    "zh": "噪音；响声",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "居家",
+    "ex_es": "El ruido de la calle no me deja dormir.",
+    "ex_zh": "街上的噪音让我睡不着。"
+  },
+  {
+    "id": "a0228",
+    "es": "el mueble",
+    "zh": "家具",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "居家",
+    "ex_es": "Compramos un mueble nuevo para el salón.",
+    "ex_zh": "我们为客厅买了一件新家具。"
+  },
+  {
+    "id": "a0229",
+    "es": "la mudanza",
+    "zh": "搬家；搬迁",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "居家",
+    "ex_es": "La mudanza a la nueva casa fue agotadora.",
+    "ex_zh": "搬到新家累坏了。"
+  },
+  {
+    "id": "a0230",
+    "es": "la calefacción",
+    "zh": "暖气；供暖",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "居家",
+    "ex_es": "La calefacción no funciona desde el martes.",
+    "ex_zh": "暖气从星期二起就坏了。"
+  },
+  {
+    "id": "a0231",
+    "es": "el electrodoméstico",
+    "zh": "家用电器",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "居家",
+    "ex_es": "Ese electrodoméstico consume muy poca electricidad.",
+    "ex_zh": "那件家用电器耗电极少。"
+  },
+  {
+    "id": "a0232",
+    "es": "la reparación",
+    "zh": "修理；维修",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "居家",
+    "ex_es": "La reparación del tejado costará bastante dinero.",
+    "ex_zh": "修屋顶要花不少钱。"
+  },
+  {
+    "id": "a0233",
+    "es": "el mantenimiento",
+    "zh": "维护；保养",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "居家",
+    "ex_es": "El mantenimiento del edificio se paga cada mes.",
+    "ex_zh": "大楼的维护费每月支付。"
+  },
+  {
+    "id": "a0234",
+    "es": "el inquilino",
+    "zh": "租客；房客",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "居家",
+    "ex_es": "El inquilino del tercer piso es muy simpático.",
+    "ex_zh": "三楼的那位租客很和善。"
+  },
+  {
+    "id": "a0235",
+    "es": "el sótano",
+    "zh": "地下室",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "居家",
+    "ex_es": "Guardamos las bicicletas en el sótano.",
+    "ex_zh": "我们把自行车放在地下室。"
+  },
+  {
+    "id": "a0236",
+    "es": "el tiempo",
+    "zh": "天气；时候",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "天气",
+    "ex_es": "El tiempo es agradable hoy en la ciudad.",
+    "ex_zh": "今天城里天气宜人。"
+  },
+  {
+    "id": "a0237",
+    "es": "el sol",
+    "zh": "太阳；阳光",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "天气",
+    "ex_es": "El sol brilla y hace calor en la playa.",
+    "ex_zh": "海滩上阳光灿烂，天气很热。"
+  },
+  {
+    "id": "a0238",
+    "es": "la lluvia",
+    "zh": "雨；下雨",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "天气",
+    "ex_es": "La lluvia no ha parado en toda la noche.",
+    "ex_zh": "雨下了一整夜没停。"
+  },
+  {
+    "id": "a0239",
+    "es": "el viento",
+    "zh": "风",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "天气",
+    "ex_es": "Hoy hace mucho viento en la montaña.",
+    "ex_zh": "今天山上风很大。"
+  },
+  {
+    "id": "a0240",
+    "es": "la nieve",
+    "zh": "雪",
+    "pos": "n.f.",
+    "level": "A1",
+    "theme": "天气",
+    "ex_es": "La nieve cubre el camino cerca del pueblo.",
+    "ex_zh": "雪覆盖了村子附近的路。"
+  },
+  {
+    "id": "a0241",
+    "es": "el calor",
+    "zh": "热；炎热",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "天气",
+    "ex_es": "El calor de agosto es difícil de soportar.",
+    "ex_zh": "八月的炎热很难忍受。"
+  },
+  {
+    "id": "a0242",
+    "es": "el frío",
+    "zh": "冷；寒冷",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "天气",
+    "ex_es": "El frío me obliga a llevar abrigo.",
+    "ex_zh": "寒冷让我不得不穿大衣。"
+  },
+  {
+    "id": "a0243",
+    "es": "el cielo",
+    "zh": "天空",
+    "pos": "n.m.",
+    "level": "A1",
+    "theme": "天气",
+    "ex_es": "El cielo está gris y parece que llueve.",
+    "ex_zh": "天空灰蒙蒙的，好像要下雨。"
+  },
+  {
+    "id": "a0244",
+    "es": "llover",
+    "zh": "下雨",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "天气",
+    "ex_es": "Va a llover esta tarde según el pronóstico.",
+    "ex_zh": "根据预报，今天下午要下雨。"
+  },
+  {
+    "id": "a0245",
+    "es": "la nube",
+    "zh": "云",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "天气",
+    "ex_es": "Una nube grande tapa el sol ahora.",
+    "ex_zh": "一大片云现在遮住了太阳。"
+  },
+  {
+    "id": "a0246",
+    "es": "la tormenta",
+    "zh": "暴风雨；雷雨",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "天气",
+    "ex_es": "La tormenta llegó de repente por la noche.",
+    "ex_zh": "暴风雨夜里突然来袭。"
+  },
+  {
+    "id": "a0247",
+    "es": "el grado",
+    "zh": "度；度数",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "天气",
+    "ex_es": "Mañana la temperatura bajará a cinco grados.",
+    "ex_zh": "明天温度将降到五度。"
+  },
+  {
+    "id": "a0248",
+    "es": "el pronóstico",
+    "zh": "预报",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "天气",
+    "ex_es": "El pronóstico anuncia sol para todo el fin de semana.",
+    "ex_zh": "预报说整个周末都是晴天。"
+  },
+  {
+    "id": "a0249",
+    "es": "la niebla",
+    "zh": "雾",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "天气",
+    "ex_es": "La niebla cubre el valle al amanecer.",
+    "ex_zh": "黎明时雾笼罩着山谷。"
+  },
+  {
+    "id": "a0250",
+    "es": "el hielo",
+    "zh": "冰",
+    "pos": "n.m.",
+    "level": "A2",
+    "theme": "天气",
+    "ex_es": "Hay hielo en la carretera, conduce con cuidado.",
+    "ex_zh": "路上有冰，开车小心。"
+  },
+  {
+    "id": "a0251",
+    "es": "soleado",
+    "zh": "晴朗的；阳光充足的",
+    "pos": "adj.",
+    "level": "A2",
+    "theme": "天气",
+    "ex_es": "El sábado será un día soleado y caluroso.",
+    "ex_zh": "星期六会是晴朗炎热的一天。"
+  },
+  {
+    "id": "a0252",
+    "es": "nublado",
+    "zh": "阴的；多云的",
+    "pos": "adj.",
+    "level": "A2",
+    "theme": "天气",
+    "ex_es": "El cielo está nublado desde primera hora.",
+    "ex_zh": "从一大早起天就阴着。"
+  },
+  {
+    "id": "a0253",
+    "es": "la temperatura",
+    "zh": "温度；气温",
+    "pos": "n.f.",
+    "level": "A2",
+    "theme": "天气",
+    "ex_es": "La temperatura sube mucho en agosto.",
+    "ex_zh": "八月的温度上升很多。"
+  },
+  {
+    "id": "a0254",
+    "es": "el aguacero",
+    "zh": "暴雨；倾盆大雨",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "天气",
+    "ex_es": "Nos sorprendió un aguacero camino de casa.",
+    "ex_zh": "回家路上我们被一场暴雨淋了。"
+  },
+  {
+    "id": "a0255",
+    "es": "la sequía",
+    "zh": "干旱",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "天气",
+    "ex_es": "La sequía ha dañado la cosecha de este año.",
+    "ex_zh": "干旱损害了今年的收成。"
+  },
+  {
+    "id": "a0256",
+    "es": "el relámpago",
+    "zh": "闪电",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "天气",
+    "ex_es": "Un relámpago iluminó toda la habitación.",
+    "ex_zh": "一道闪电照亮了整个房间。"
+  },
+  {
+    "id": "a0257",
+    "es": "el trueno",
+    "zh": "雷；雷声",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "天气",
+    "ex_es": "El trueno sonó muy fuerte a medianoche.",
+    "ex_zh": "午夜雷声非常响。"
+  },
+  {
+    "id": "a0258",
+    "es": "la humedad",
+    "zh": "湿度；潮湿",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "天气",
+    "ex_es": "La humedad del verano es insoportable en la costa.",
+    "ex_zh": "夏天的湿气在海边让人难以忍受。"
+  },
+  {
+    "id": "a0259",
+    "es": "el granizo",
+    "zh": "冰雹",
+    "pos": "n.m.",
+    "level": "B1",
+    "theme": "天气",
+    "ex_es": "El granizo rompió las ventanas del coche.",
+    "ex_zh": "冰雹砸坏了汽车的窗户。"
+  },
+  {
+    "id": "a0260",
+    "es": "la brisa",
+    "zh": "微风",
+    "pos": "n.f.",
+    "level": "B1",
+    "theme": "天气",
+    "ex_es": "Una brisa suave llega desde el mar.",
+    "ex_zh": "一阵微风从海上吹来。"
+  }
+]

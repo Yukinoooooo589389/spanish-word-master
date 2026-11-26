@@ -1,0 +1,1012 @@
+[
+  {
+    "id": "c0001",
+    "es": "ir",
+    "zh": "去；走；前往",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "动作",
+    "ex_es": "Voy al mercado con mi madre cada sábado.",
+    "ex_zh": "我每周六和妈妈一起去市场。"
+  },
+  {
+    "id": "c0002",
+    "es": "ser",
+    "zh": "是；成为；本质是",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "思维",
+    "ex_es": "Mi hermano es profesor de historia en un instituto.",
+    "ex_zh": "我哥哥是一所中学的历史老师。"
+  },
+  {
+    "id": "c0003",
+    "es": "estar",
+    "zh": "在；处于；位于",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Hoy estoy un poco cansado por el trabajo.",
+    "ex_zh": "今天因为工作我有点累。"
+  },
+  {
+    "id": "c0004",
+    "es": "tener",
+    "zh": "有；拥有；带着",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Mi hermana tiene veinticinco años y vive sola.",
+    "ex_zh": "我姐姐二十五岁，一个人住。"
+  },
+  {
+    "id": "c0005",
+    "es": "hacer",
+    "zh": "做；制作；干",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "动作",
+    "ex_es": "Esta tarde voy a hacer la comida para todos.",
+    "ex_zh": "今天下午我要给大家做饭。"
+  },
+  {
+    "id": "c0006",
+    "es": "poder",
+    "zh": "能；可以；可能",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "思维",
+    "ex_es": "No puedo ir contigo porque tengo mucho trabajo.",
+    "ex_zh": "我不能和你一起去，因为我工作很多。"
+  },
+  {
+    "id": "c0007",
+    "es": "decir",
+    "zh": "说；告诉；讲",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "社会",
+    "ex_es": "Mi jefe me dijo que la reunión es mañana.",
+    "ex_zh": "我老板告诉我会议在明天。"
+  },
+  {
+    "id": "c0008",
+    "es": "ver",
+    "zh": "看；看见；观看",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "动作",
+    "ex_es": "Ayer vi una película muy bonita en el cine.",
+    "ex_zh": "昨天我在电影院看了一部很好看的电影。"
+  },
+  {
+    "id": "c0009",
+    "es": "dar",
+    "zh": "给；给予；交给",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "社会",
+    "ex_es": "Le di un regalo a mi madre por su cumpleaños.",
+    "ex_zh": "我送了一份礼物给妈妈过生日。"
+  },
+  {
+    "id": "c0010",
+    "es": "saber",
+    "zh": "知道；会；懂得",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "思维",
+    "ex_es": "No sé dónde está la estación de tren.",
+    "ex_zh": "我不知道火车站在哪里。"
+  },
+  {
+    "id": "c0011",
+    "es": "querer",
+    "zh": "想要；爱；喜欢",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "情感",
+    "ex_es": "Quiero mucho a mis padres y a mis hermanos.",
+    "ex_zh": "我很爱我的父母和兄弟姐妹。"
+  },
+  {
+    "id": "c0012",
+    "es": "llegar",
+    "zh": "到达；抵达；赶来",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "旅行",
+    "ex_es": "El tren llega a la estación a las ocho.",
+    "ex_zh": "火车八点到站。"
+  },
+  {
+    "id": "c0013",
+    "es": "pasar",
+    "zh": "经过；度过；发生",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "Pasé el verano en casa de mis abuelos.",
+    "ex_zh": "我在祖父母家度过了夏天。"
+  },
+  {
+    "id": "c0014",
+    "es": "deber",
+    "zh": "应该；必须；欠",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "思维",
+    "ex_es": "Debes descansar más y dormir ocho horas.",
+    "ex_zh": "你应该多休息，睡八个小时。"
+  },
+  {
+    "id": "c0015",
+    "es": "poner",
+    "zh": "放；放置；穿上",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "Puse las llaves sobre la mesa de la cocina.",
+    "ex_zh": "我把钥匙放在厨房的桌子上了。"
+  },
+  {
+    "id": "c0016",
+    "es": "parecer",
+    "zh": "好像；看起来；似乎",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "思维",
+    "ex_es": "Tu idea me parece muy buena para el proyecto.",
+    "ex_zh": "我觉得你的主意对这个项目很好。"
+  },
+  {
+    "id": "c0017",
+    "es": "quedar",
+    "zh": "留下；约定；位于",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "Quedamos a las seis delante del restaurante.",
+    "ex_zh": "我们约好六点在餐厅门口见。"
+  },
+  {
+    "id": "c0018",
+    "es": "creer",
+    "zh": "相信；认为；以为",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "思维",
+    "ex_es": "Creo que mañana va a llover otra vez.",
+    "ex_zh": "我觉得明天又要下雨了。"
+  },
+  {
+    "id": "c0019",
+    "es": "hablar",
+    "zh": "说话；讲；谈论",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "社会",
+    "ex_es": "Hablo español un poco, pero entiendo bastante bien.",
+    "ex_zh": "我会说一点西班牙语，但能听懂不少。"
+  },
+  {
+    "id": "c0020",
+    "es": "llevar",
+    "zh": "带；携带；穿",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "Siempre llevo el paraguas cuando salgo de casa.",
+    "ex_zh": "我出门时总是带着伞。"
+  },
+  {
+    "id": "c0021",
+    "es": "dejar",
+    "zh": "留下；放下；让",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "Dejé mis libros en la mesa de tu habitación.",
+    "ex_zh": "我把书放在你房间的桌子上了。"
+  },
+  {
+    "id": "c0022",
+    "es": "seguir",
+    "zh": "继续；跟随；接着",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "Sigue recto por esta calle y luego gira a la derecha.",
+    "ex_zh": "沿着这条街一直走，然后右转。"
+  },
+  {
+    "id": "c0023",
+    "es": "encontrar",
+    "zh": "找到；遇见；发现",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "No encuentro las gafas por ninguna parte.",
+    "ex_zh": "我到处都找不到眼镜。"
+  },
+  {
+    "id": "c0024",
+    "es": "llamar",
+    "zh": "叫；打电话；称呼",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "社会",
+    "ex_es": "Mi vecina me llamó anoche para pedir ayuda.",
+    "ex_zh": "我的女邻居昨晚打电话给我求助。"
+  },
+  {
+    "id": "c0025",
+    "es": "venir",
+    "zh": "来；到来；来自",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "动作",
+    "ex_es": "Mis amigos vienen a cenar a casa esta noche.",
+    "ex_zh": "我的朋友们今晚来我家吃晚饭。"
+  },
+  {
+    "id": "c0026",
+    "es": "pensar",
+    "zh": "想；思考；打算",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "思维",
+    "ex_es": "Pienso estudiar medicina el año que viene.",
+    "ex_zh": "我打算明年学医。"
+  },
+  {
+    "id": "c0027",
+    "es": "salir",
+    "zh": "出去；离开；出发",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "Salimos del trabajo a las seis de la tarde.",
+    "ex_zh": "我们下午六点下班。"
+  },
+  {
+    "id": "c0028",
+    "es": "volver",
+    "zh": "回来；返回；重新",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "旅行",
+    "ex_es": "Mi padre vuelve a casa muy tarde cada día.",
+    "ex_zh": "我爸爸每天很晚才回家。"
+  },
+  {
+    "id": "c0029",
+    "es": "tomar",
+    "zh": "拿；喝；乘坐",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "Tomo café con leche todas las mañanas.",
+    "ex_zh": "我每天早上喝牛奶咖啡。"
+  },
+  {
+    "id": "c0030",
+    "es": "conocer",
+    "zh": "认识；了解；熟悉",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "Conocí a mi mejor amiga en la universidad.",
+    "ex_zh": "我是在大学认识我最好的朋友的。"
+  },
+  {
+    "id": "c0031",
+    "es": "vivir",
+    "zh": "住；生活；活着",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Vivo en un piso pequeño cerca del centro.",
+    "ex_zh": "我住在市中心附近的一个小公寓里。"
+  },
+  {
+    "id": "c0032",
+    "es": "sentir",
+    "zh": "感觉；感到；遗憾",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "情感",
+    "ex_es": "Siento mucho lo de tu abuelo, de verdad.",
+    "ex_zh": "你祖父的事我真的很遗憾。"
+  },
+  {
+    "id": "c0033",
+    "es": "tratar",
+    "zh": "对待；处理；尝试",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "社会",
+    "ex_es": "El profesor trata a todos sus alumnos con respeto.",
+    "ex_zh": "这位老师尊重地对待每一个学生。"
+  },
+  {
+    "id": "c0034",
+    "es": "mirar",
+    "zh": "看；注视；查看",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "动作",
+    "ex_es": "Mira el cielo, parece que va a nevar.",
+    "ex_zh": "你看天上，好像要下雪了。"
+  },
+  {
+    "id": "c0035",
+    "es": "contar",
+    "zh": "数；讲述；告诉",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "Mi abuela me contó un cuento antes de dormir.",
+    "ex_zh": "奶奶睡前给我讲了一个故事。"
+  },
+  {
+    "id": "c0036",
+    "es": "empezar",
+    "zh": "开始；着手",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "动作",
+    "ex_es": "La película empieza a las nueve y media.",
+    "ex_zh": "电影九点半开始。"
+  },
+  {
+    "id": "c0037",
+    "es": "esperar",
+    "zh": "等；等待；希望",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "Te espero en la puerta de la biblioteca.",
+    "ex_zh": "我在图书馆门口等你。"
+  },
+  {
+    "id": "c0038",
+    "es": "buscar",
+    "zh": "找；寻找；寻求",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "动作",
+    "ex_es": "Estoy buscando un trabajo mejor en otra ciudad.",
+    "ex_zh": "我正在另一个城市找一份更好的工作。"
+  },
+  {
+    "id": "c0039",
+    "es": "entrar",
+    "zh": "进入；进来；加入",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "Entró en la sala sin decir nada a nadie.",
+    "ex_zh": "他什么也没对别人说就进了房间。"
+  },
+  {
+    "id": "c0040",
+    "es": "trabajar",
+    "zh": "工作；干活；努力",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "工作",
+    "ex_es": "Trabajo en un hospital desde hace cinco años.",
+    "ex_zh": "我在一家医院工作已经五年了。"
+  },
+  {
+    "id": "c0041",
+    "es": "escribir",
+    "zh": "写；写作；书写",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "学习",
+    "ex_es": "Escribo un correo a mi profesor cada semana.",
+    "ex_zh": "我每周给老师写一封邮件。"
+  },
+  {
+    "id": "c0042",
+    "es": "perder",
+    "zh": "失去；丢失；错过",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "Perdí el autobús y llegué tarde a clase.",
+    "ex_zh": "我错过了公交车，上课迟到了。"
+  },
+  {
+    "id": "c0043",
+    "es": "producir",
+    "zh": "生产；产生；引起",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "工作",
+    "ex_es": "Esta fábrica produce más de mil coches al día.",
+    "ex_zh": "这家工厂每天生产一千多辆汽车。"
+  },
+  {
+    "id": "c0044",
+    "es": "ocurrir",
+    "zh": "发生；想到",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "生活",
+    "ex_es": "El accidente ocurrió en una calle muy tranquila.",
+    "ex_zh": "事故发生在一条很安静的街上。"
+  },
+  {
+    "id": "c0045",
+    "es": "entender",
+    "zh": "理解；明白；懂",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "思维",
+    "ex_es": "No entiendo esta frase, ¿puedes explicarla otra vez?",
+    "ex_zh": "我不懂这句话，你能再解释一遍吗？"
+  },
+  {
+    "id": "c0046",
+    "es": "pedir",
+    "zh": "请求；要；点（餐）",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "Voy a pedir una paella para dos personas.",
+    "ex_zh": "我要点一份两人份的海鲜饭。"
+  },
+  {
+    "id": "c0047",
+    "es": "recibir",
+    "zh": "收到；接到；接待",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "Recibí una carta de mi amiga de Chile.",
+    "ex_zh": "我收到了智利朋友的一封信。"
+  },
+  {
+    "id": "c0048",
+    "es": "recordar",
+    "zh": "记得；想起；提醒",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "思维",
+    "ex_es": "No recuerdo el nombre de aquel restaurante.",
+    "ex_zh": "我不记得那家餐厅的名字了。"
+  },
+  {
+    "id": "c0049",
+    "es": "terminar",
+    "zh": "结束；完成；终止",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "Terminé el informe a las dos de la mañana.",
+    "ex_zh": "我凌晨两点才写完报告。"
+  },
+  {
+    "id": "c0050",
+    "es": "permitir",
+    "zh": "允许；准许；使能够",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "社会",
+    "ex_es": "La empresa no permite usar el móvil en las reuniones.",
+    "ex_zh": "公司不允许在会议上使用手机。"
+  },
+  {
+    "id": "c0051",
+    "es": "aparecer",
+    "zh": "出现；露面；显现",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "动作",
+    "ex_es": "Mi gato apareció de repente debajo de la cama.",
+    "ex_zh": "我的猫突然出现在床底下。"
+  },
+  {
+    "id": "c0052",
+    "es": "conseguir",
+    "zh": "得到；获得；设法做到",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "动作",
+    "ex_es": "Conseguí entradas para el concierto de esta noche.",
+    "ex_zh": "我拿到了今晚音乐会的票。"
+  },
+  {
+    "id": "c0053",
+    "es": "comenzar",
+    "zh": "开始；着手",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "Las clases comienzan el próximo lunes por la mañana.",
+    "ex_zh": "课程下周一上午开始。"
+  },
+  {
+    "id": "c0054",
+    "es": "servir",
+    "zh": "服务；上菜；有用",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "工作",
+    "ex_es": "Este cuchillo sirve para cortar el pan.",
+    "ex_zh": "这把刀是用来切面包的。"
+  },
+  {
+    "id": "c0055",
+    "es": "sacar",
+    "zh": "取出；拿出；取得",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "Saca el dinero del cajero y luego compra pan.",
+    "ex_zh": "从取款机取些钱，然后买面包。"
+  },
+  {
+    "id": "c0056",
+    "es": "necesitar",
+    "zh": "需要；需求",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Necesito descansar un poco después de tanto trabajo.",
+    "ex_zh": "干了这么多活之后我需要休息一会儿。"
+  },
+  {
+    "id": "c0057",
+    "es": "mantener",
+    "zh": "保持；维持；养活",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "动作",
+    "ex_es": "Es difícil mantener la calma en momentos así.",
+    "ex_zh": "在这样的时刻很难保持冷静。"
+  },
+  {
+    "id": "c0058",
+    "es": "leer",
+    "zh": "读；阅读；朗读",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "学习",
+    "ex_es": "Leo el periódico mientras desayuno cada mañana.",
+    "ex_zh": "我每天早上一边吃早饭一边看报纸。"
+  },
+  {
+    "id": "c0059",
+    "es": "caer",
+    "zh": "掉下；跌倒；落下",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "Se me cayó el vaso y se rompió en el suelo.",
+    "ex_zh": "杯子从我手里掉下去，在地上摔碎了。"
+  },
+  {
+    "id": "c0060",
+    "es": "cambiar",
+    "zh": "改变；换；交换",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "He cambiado de opinión sobre el viaje a Roma.",
+    "ex_zh": "我改变了对罗马之行的想法。"
+  },
+  {
+    "id": "c0061",
+    "es": "presentar",
+    "zh": "介绍；呈现；提交",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "Me presentaron a sus padres en la fiesta.",
+    "ex_zh": "他们在聚会上把我介绍给了他的父母。"
+  },
+  {
+    "id": "c0062",
+    "es": "crear",
+    "zh": "创造；创建；创作",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "工作",
+    "ex_es": "El artista creó esta obra con materiales reciclados.",
+    "ex_zh": "这位艺术家用回收材料创作了这件作品。"
+  },
+  {
+    "id": "c0063",
+    "es": "abrir",
+    "zh": "打开；开；开启",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "动作",
+    "ex_es": "Abre la ventana, hace mucho calor aquí dentro.",
+    "ex_zh": "打开窗户，这里面很热。"
+  },
+  {
+    "id": "c0064",
+    "es": "considerar",
+    "zh": "认为；考虑；视为",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "思维",
+    "ex_es": "Considero que es una buena idea para el grupo.",
+    "ex_zh": "我认为这对团队来说是个好主意。"
+  },
+  {
+    "id": "c0065",
+    "es": "oír",
+    "zh": "听见；听到；听",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "Oigo a los niños jugar en el patio.",
+    "ex_zh": "我听见孩子们在院子里玩。"
+  },
+  {
+    "id": "c0066",
+    "es": "acabar",
+    "zh": "结束；完成；刚刚",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "Acabo de llegar a casa, estoy muy cansado.",
+    "ex_zh": "我刚到家，很累。"
+  },
+  {
+    "id": "c0067",
+    "es": "convertir",
+    "zh": "转变；使成为；转换",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "动作",
+    "ex_es": "La empresa se convirtió en líder del mercado.",
+    "ex_zh": "这家公司成了市场的领先者。"
+  },
+  {
+    "id": "c0068",
+    "es": "ganar",
+    "zh": "赢；赚；获得",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "工作",
+    "ex_es": "Ganamos el partido por dos goles a uno.",
+    "ex_zh": "我们以二比一赢了比赛。"
+  },
+  {
+    "id": "c0069",
+    "es": "formar",
+    "zh": "形成；组成；培养",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "社会",
+    "ex_es": "El equipo se formó hace diez años en Madrid.",
+    "ex_zh": "这支球队十年前在马德里成立。"
+  },
+  {
+    "id": "c0070",
+    "es": "traer",
+    "zh": "带来；拿来；引起",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "Mi hermano trajo postres para toda la familia.",
+    "ex_zh": "我哥哥给全家带来了甜点。"
+  },
+  {
+    "id": "c0071",
+    "es": "partir",
+    "zh": "出发；离开；分成",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "旅行",
+    "ex_es": "El grupo parte hacia México el próximo jueves.",
+    "ex_zh": "这个团下周四出发去墨西哥。"
+  },
+  {
+    "id": "c0072",
+    "es": "nacer",
+    "zh": "出生；产生；诞生",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "Nací en un pueblo pequeño del sur de España.",
+    "ex_zh": "我出生在西班牙南部的一个小村庄。"
+  },
+  {
+    "id": "c0073",
+    "es": "morir",
+    "zh": "死；去世；消亡",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "Su abuelo murió el mes pasado a los noventa años.",
+    "ex_zh": "他祖父上个月九十岁时去世了。"
+  },
+  {
+    "id": "c0074",
+    "es": "aceptar",
+    "zh": "接受；同意；承认",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "社会",
+    "ex_es": "Acepté el trabajo porque el sueldo era mejor.",
+    "ex_zh": "我接受了这份工作，因为工资更高。"
+  },
+  {
+    "id": "c0075",
+    "es": "realizar",
+    "zh": "实现；进行；完成",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "工作",
+    "ex_es": "Realizaron un estudio sobre la calidad del agua.",
+    "ex_zh": "他们做了一项关于水质的调查。"
+  },
+  {
+    "id": "c0076",
+    "es": "suponer",
+    "zh": "假设；猜想；意味着",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "思维",
+    "ex_es": "Supongo que llegará tarde, como siempre.",
+    "ex_zh": "我猜他会像往常一样迟到。"
+  },
+  {
+    "id": "c0077",
+    "es": "comprender",
+    "zh": "理解；明白；包含",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "思维",
+    "ex_es": "Por fin comprendo por qué estabas tan preocupado.",
+    "ex_zh": "我终于明白你为什么那么担心了。"
+  },
+  {
+    "id": "c0078",
+    "es": "lograr",
+    "zh": "成功做到；获得；实现",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "动作",
+    "ex_es": "Logró aprobar el examen después de mucho esfuerzo.",
+    "ex_zh": "经过很大努力，他通过了考试。"
+  },
+  {
+    "id": "c0079",
+    "es": "explicar",
+    "zh": "解释；说明；讲解",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "学习",
+    "ex_es": "El profesor explicó la lección dos veces para todos.",
+    "ex_zh": "老师为了大家把这一课讲了两遍。"
+  },
+  {
+    "id": "c0080",
+    "es": "preguntar",
+    "zh": "问；询问；打听",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "社会",
+    "ex_es": "Le pregunté al policía dónde estaba la estación.",
+    "ex_zh": "我问警察车站在哪里。"
+  },
+  {
+    "id": "c0081",
+    "es": "tocar",
+    "zh": "摸；触摸；弹奏",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "Mi hermana toca el piano desde los seis años.",
+    "ex_zh": "我妹妹从六岁起就弹钢琴。"
+  },
+  {
+    "id": "c0082",
+    "es": "reconocer",
+    "zh": "认出；承认；认可",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "思维",
+    "ex_es": "No reconocí a tu primo con esa barba.",
+    "ex_zh": "他留着那胡子，我没认出你表弟。"
+  },
+  {
+    "id": "c0083",
+    "es": "estudiar",
+    "zh": "学习；研究；攻读",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "学习",
+    "ex_es": "Estudio inglés dos horas cada tarde después del trabajo.",
+    "ex_zh": "每天下班后我学两个小时英语。"
+  },
+  {
+    "id": "c0084",
+    "es": "aplicar",
+    "zh": "应用；涂；申请",
+    "pos": "v.",
+    "level": "B1",
+    "theme": "学习",
+    "ex_es": "En mi trabajo aplico lo que aprendí en la escuela.",
+    "ex_zh": "在工作中我应用在学校学到的东西。"
+  },
+  {
+    "id": "c0085",
+    "es": "vender",
+    "zh": "卖；出售；销售",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "工作",
+    "ex_es": "Vendemos fruta fresca en el mercado del pueblo.",
+    "ex_zh": "我们在村里的市场上卖新鲜水果。"
+  },
+  {
+    "id": "c0086",
+    "es": "comer",
+    "zh": "吃；吃饭；用餐",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Comemos juntos en casa de la abuela los domingos.",
+    "ex_zh": "每个星期天我们在奶奶家一起吃饭。"
+  },
+  {
+    "id": "c0087",
+    "es": "beber",
+    "zh": "喝；饮",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Bebo mucha agua cuando hace calor en verano.",
+    "ex_zh": "夏天热的时候我喝很多水。"
+  },
+  {
+    "id": "c0088",
+    "es": "dormir",
+    "zh": "睡觉；睡",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Duermo ocho horas casi todas las noches.",
+    "ex_zh": "我几乎每晚都睡八个小时。"
+  },
+  {
+    "id": "c0089",
+    "es": "despertar",
+    "zh": "醒来；唤醒；激起",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "生活",
+    "ex_es": "Ayer me desperté a las seis por el ruido de la calle.",
+    "ex_zh": "昨天我被街上的声音吵醒，六点就醒了。"
+  },
+  {
+    "id": "c0090",
+    "es": "viajar",
+    "zh": "旅行；出行；旅游",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "旅行",
+    "ex_es": "Me gusta viajar en tren por el norte de España.",
+    "ex_zh": "我喜欢坐火车在西班牙北部旅行。"
+  },
+  {
+    "id": "c0091",
+    "es": "comprar",
+    "zh": "买；购买；采购",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Compro el pan en la panadería de la esquina.",
+    "ex_zh": "我在街角的面包店买面包。"
+  },
+  {
+    "id": "c0092",
+    "es": "pagar",
+    "zh": "付钱；支付；付账",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "生活",
+    "ex_es": "Pagamos la cena entre todos, como siempre.",
+    "ex_zh": "像往常一样，晚饭我们大家一起分摊。"
+  },
+  {
+    "id": "c0093",
+    "es": "ayudar",
+    "zh": "帮助；帮忙；协助",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "社会",
+    "ex_es": "Mi vecino me ayuda a subir las bolsas.",
+    "ex_zh": "我的邻居帮我提袋子。"
+  },
+  {
+    "id": "c0094",
+    "es": "escuchar",
+    "zh": "听；倾听；收听",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "动作",
+    "ex_es": "Escucho música mientras camino al trabajo.",
+    "ex_zh": "我在去上班的路上听音乐。"
+  },
+  {
+    "id": "c0095",
+    "es": "enseñar",
+    "zh": "教；教授；展示",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "学习",
+    "ex_es": "Mi abuelo me enseñó a pescar en el río.",
+    "ex_zh": "我祖父在河里教我钓鱼。"
+  },
+  {
+    "id": "c0096",
+    "es": "aprender",
+    "zh": "学习；学会；掌握",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "学习",
+    "ex_es": "Quiero aprender a cocinar platos japoneses.",
+    "ex_zh": "我想学做日本菜。"
+  },
+  {
+    "id": "c0097",
+    "es": "cerrar",
+    "zh": "关；关闭；关上",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "动作",
+    "ex_es": "Cierra la puerta, por favor, que hace frío.",
+    "ex_zh": "请关上门，有点冷。"
+  },
+  {
+    "id": "c0098",
+    "es": "subir",
+    "zh": "上去；上升；提高",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "Subí al monte para ver el amanecer.",
+    "ex_zh": "我爬到山上看了日出。"
+  },
+  {
+    "id": "c0099",
+    "es": "bajar",
+    "zh": "下去；下降；降低",
+    "pos": "v.",
+    "level": "A2",
+    "theme": "动作",
+    "ex_es": "El precio de la luz bajó un poco el mes pasado.",
+    "ex_zh": "上个月电价降了一点。"
+  },
+  {
+    "id": "c0100",
+    "es": "correr",
+    "zh": "跑；奔跑；流动",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "动作",
+    "ex_es": "Corro media hora por el parque cada mañana.",
+    "ex_zh": "我每天早上在公园跑半个小时。"
+  },
+  {
+    "id": "c0101",
+    "es": "caminar",
+    "zh": "走；步行；走路",
+    "pos": "v.",
+    "level": "A1",
+    "theme": "动作",
+    "ex_es": "Caminamos por la playa hasta el atardecer.",
+    "ex_zh": "我们沿着海滩一直走到日落。"
+  }
+]
